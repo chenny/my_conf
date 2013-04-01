@@ -1,0 +1,2000 @@
+crontab -e
+top
+ll
+cd /app/wwwroot/dafen123.com/errorlogs/mail/
+ll
+vi count_fate.log 
+tail count_hot.log 
+tail -f count_hot.log 
+tail -f count_fate.log 
+crontab -e
+ll
+tail -f send_error_2012-08.log 
+vi other_error_2012-08.log 
+ll
+vi hot_2012-08-20.log 
+ll
+vi vi fate_2012-08-20.log 
+ll
+tail -f fate_2012-08-20.log 
+tail -f send_error_2012-08.log 
+sz send_error_2012-08.log 
+cd /app/mysql/
+ll
+cd log
+cd logs
+ll
+vi slow_queries.log 
+ll
+vi error.log 
+crontab -e
+cd /usr/local/services
+vim nginx/conf/nginx.conf
+cd nginx/
+sbin/-t
+sbin/nginx -t
+ps axf
+kill -HUP 23712
+ps axf
+df
+cd /usr/local/services/nginx/conf/
+vi nginx.conf
+ll
+vi nginx.conf.
+vi nginx.conf.bak 
+diff nginx.conf nginx.conf.bak
+:q
+ll
+rm nginx.conf.bak 
+cp nginx.conf nginx.conf.bak
+vi nginx.conf
+cd //app/wwwroot/dafen123.com/up.dafen123.com
+ll
+vi t.php 
+ll
+cd -
+ll
+cd ..
+ll
+cd sbin/
+ll
+./nginx -t
+./nginx -s reload
+ll
+cd -
+cd /app/wwwroot/dafen123.com/up.dafen123.com
+ll
+vi t.php 
+cd -
+./sbin/nginx -c conf/nginx.conf
+./sbin/nginx -t
+vi ./conf/nginx.conf
+ps -ef | grep nginx
+kill 852
+/usr/local/services/nginx/sbin/nginx -c /usr/local/services/nginx/conf/nginx.conf
+cd -
+ll
+vi t.php 
+mv t.php tt.php
+ll
+cd -
+ll
+vi conf/nginx.conf
+./sbin/nginx -t
+ps -ef |grep nginx
+kill 321198
+ll
+top
+ps -ef |grep nginx
+ill 32198
+kill 32198
+ps -ef |grep nginx
+/usr/local/services/nginx/sbin/nginx -c /usr/local/services/nginx/conf/nginx.conf
+ll
+ps -ef |grep nginx
+vi conf/nginx.conf
+ll
+cd /app/wwwroot/dafen123.com/errorlogs/mail/
+ll
+vi count_hot.log 
+tail count_fate.log 
+cd -
+ll
+cd conf/
+ll
+vi nginx.conf
+cd ../../php5-fcgi/
+ll
+vi etc/
+:q
+ll
+cd -
+ll
+rm t.php 
+ll
+vi /etc/hosts
+ll
+vi nginx.conf
+pure-pw list
+pure-pw useradd ftp_cwh  -u nobody -g nobody -d /app/wwwroot/dafen123.com/
+pure-pw mkdb
+pure-pw list
+pure-pw useradd ftp_yb  -u nobody -g nobody -d /app/wwwroot/dafen123.com/
+pure-pw mkdb
+pure-pw list
+ll
+passwd
+ll
+vi /etc/passwd
+ll
+useradd dev_cwh
+passwd dev_cwh
+usermod -G nobody dev_cwh
+id dev_cwh
+ll
+cd /home/chenny/
+ll
+vi t.php
+php t.php |grep ADDR
+LL
+ll
+cd -
+vim /etc/postfix/main.cf 
+netstat -nlp
+vim /etc/postfix/master.cf 
+vim /etc/postfix/main.cf 
+ll
+cd /app/wwwroot/dafen123.c
+ls
+vim /root/.ssh/authorized_keys 
+rsync -avz /root/.ssh 103.6.84.108:/root/
+vim /root/.ssh/authorized_keys 
+cd /app/logs/
+ls
+tail -f php-error.log 
+whereis jjdd
+whereis man
+whereis dafen123.com
+whereis *dafen123.com
+cd ../
+ls
+cd wwwroot/
+ls
+cd dafen123.com/core/public/config/
+ls
+cd mydb/
+ls
+vi message.mydb.php 
+ls
+vi msg.mydb.php 
+vi message.mydb.php 
+tail -f php-error.log 
+tail -f /app/logs/php-error.log 
+vi message.mydb.php 
+tail -f /app/logs/php-error.log 
+vi message.mydb.php 
+cd /tmp/
+sz admin_debug.log 
+tail -f admin_debug.log 
+ll
+tail -f admin_debug.log 
+ll
+vi admin_debug
+vi admin_debug.log 
+ll
+cd /usr/local/services/nginx/conf/
+vi nginx.conf
+cd /app/logs
+ll
+tail -f php-error.log 
+top
+df -hT
+ps axf
+cd /app/mysql/
+ls
+cd log
+cd logs
+ls
+tail -f slow_queries.log l
+tail -f slow_queries.log
+tail -f slow_queries.log -n 50
+vi /app/wwwroot/dafen123.com/core/public/library/facebook/base_facebook.php
+pwd
+ls
+cd ../
+ls
+cd /app/wwwroot
+ls
+cd dafen123.com/www.dafen123.com/wwwroot/
+ls
+vi index.php 
+cd ../
+ls
+pwd
+ls
+cd ../
+ls
+cd errorlogs/pwd
+pwd
+cd ../
+ls
+cd dafen123.com/
+ls
+clear
+cd ../
+ls
+cd dafen123.com/
+ls
+cd core/public/config/
+ls
+vi config.cfg.php 
+tail -f /app/wwwroot/dafen123.com/errorlogs/facebook2012-08-21.log 
+tail -f /app/logs/php-error.log 
+history |grep mail
+echo "mail content 5" | mail -s "Mail Subject 5" jiaosq.51.com@gmail.com
+ll
+cd /app/mysql/logs/slow_queries.log
+vi /etc/mysql/my.cnf 
+tail -f /app/mysql/logs/slow_queries.log
+cd /app/mysql/logs
+ll
+sz slow_queries.log 
+cd /app/wwwroot/dafen123.com/crontab/
+ll
+/usr/local/services/php5-fcgi/bin/php no_msg.php 
+cd /app/wwwroot/dafen123.com/crontab/
+/usr/local/services/php5-fcgi/bin/php no_msg.php 
+ll
+cd ../../
+ll
+cd phpmyadmin/
+ll
+vi config.inc.php 
+ll
+cd /app/scripts/
+ll
+vi rsync_dafen123.com.sh 
+ll
+aptitude search sysstat
+aptitude install sysstat
+iostat -x 1
+cd /app/backup/
+ls -lh
+cd /app/
+ls -lh
+iostat -x 1
+tail -f /app/logs/php-error.log 
+ll
+cd /app/scripts/
+ll
+vi rsync_dafen123.com.sh 
+ll
+cd /
+ll
+crontab -e
+sz /app/scripts/rsync_dafen123.com.sh 
+ll
+cd app/scripts/
+ll
+cd ..
+ll
+vim /app/wwwroot/dafen123.com/www.dafen123.com/control/home.ctl.php 
+mysql
+vi /etc/mysql/my.cnf 
+ufw
+ufw status
+iptables -L INPUT
+ll
+vi /usr/local/services/nginx/conf/nginx.conf
+/app/services/nginx/sbin/nginx -s reload
+cd /app/wwwroot/dafen123.com/errorlogs/mail/
+ll
+vi count_fate.log 
+ll
+vi count_hot.log 
+vi count_fate.log 
+crontab -e
+mysql
+curl  http://www.dafen123.com/ip.php
+cd /root/
+ls
+cd /app/
+ls
+mkdir scripts
+cd scripts/
+ls
+vim rsync_dafen123.com.sh
+which rsync
+vim rsync_dafen123.com.sh
+ls /app/wwwroot/dafen123.com/
+vim rsync_dafen123.com.sh
+ls /app/wwwroot/dafen123.com
+vim rsync_dafen123.com.sh
+ls
+chmod a+x rsync_dafen123.com.sh 
+ls
+top
+ls
+cd /root/bin/
+ls
+rz -bey
+vim mystat.pl 
+cpan -i DBI Switch DBD::mysql Getopt::Std Term::ANSIColor vars
+vim /root/.bashrc 
+vim /etc/mysql/my.cnf 
+vim /root/.bashrc 
+alias mystat='/root/bin/mystat.pl -i 5 -h localhost -u root -p WNe82dbzlmPETFoxbJGd'
+ls
+chmod a+x mystat.pl 
+mystat 
+mkdir -p /var/run/mysqld/
+ln -s /tmp/mysql.sock /var/run/mysqld/mysqld.sock
+mystat 
+ls
+cd /app/scripts/
+ls
+vim rsync_dafen123.com.sh 
+ls
+mystat 
+yum search dkim
+aptitude search dkim
+aptitude update
+aptitude search dkim
+cd /app/
+ls
+cd opt/
+ls
+wget http://downloads.sourceforge.net/project/dkim-milter/DKIM%20Milter/2.8.3/dkim-milter-2.8.3.tar.gz?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fdkim-milter%2F&ts=1345706345&use_mirror=hivelocity
+ls
+mv dkim-milter-2.8.3.tar.gz\?r\=http\:%2F%2Fsourceforge.net%2Fprojects%2Fdkim-milter%2F dkim-milter-2.8.3.tar.gz
+ls
+tar -zxvf dkim-milter-2.8.3.tar.gz 
+cd dkim-milter-2.8.3/
+ls
+vim INSTALL 
+sh Build 
+ls
+aptitude search milter
+ls
+aptitude search libmilter
+aptitude install libmilter-dev
+sh Build 
+aptitude search m4
+aptitude install m4
+sh Build 
+aptitude search milter
+aptitude install libmilter-dev:i386 
+aptitude install dkim-filter
+vim /etc/apt/sources.list
+aptitude search opendkim 
+aptitude install opendkim
+vim /etc/opendkim.conf 
+ls
+mkdir /app/opendkim
+cd obj.Linux.3.2.0-25-virtual.x86_64/
+cd /app/op
+ls
+cd /app/
+ls
+cd op
+cd opendkim/
+ls
+opendkim-genkey -r -d mail.dafen123.com
+ls
+cat default.txt 
+ls
+vim /etc/opendkim.conf 
+vim /etc/postfix/main.cf 
+/etc/init.d/opendkim restart
+ps axf
+/etc/init.d/postfix restart
+history |grep mail
+echo "mail content 6" | mail -s "Mail Subject 6" jiaosq.51.com@gmail.com
+tail -f /var/log/mail.log
+ps axf
+rcconf 
+ls
+vim /etc/opendkim.conf 
+ls
+cat default.txt 
+vim /etc/opendkim.conf 
+history |grep mail
+echo "mail content 7" | mail -s "Mail Subject 7" jiaosq.51.com@gmail.com
+mystat 
+netstat -nlp
+vim /etc/postfix/main.cf 
+mystat 
+scp -p /etc/mysql/my.cnf ec2-176-34-42-78.ap-northeast-1.compute.amazonaws.com:/etc/mysql/
+iptables -nL
+ifconfig 
+mysql
+tail -f /app/mysql/logs/error.log 
+scp /etc/mysql/my.cnf ec2-54-248-50-34.ap-northeast-1.compute.amazonaws.com:/etc/mysql/
+cd /app/
+ls
+mkdir backup
+/usr/local/mysql/bin/mysqldump --help
+/usr/local/mysql/bin/mysqldump --single-transaction --master-data -A > all.sql
+ls
+scp all.sql ec2-54-248-50-34.ap-northeast-1.compute.amazonaws.com:/app/
+ls -lh
+vim /etc/mysql/my.cnf 
+mysql
+ifconfig 
+mystat 
+\
+mystat 
+ll
+tail -f /app/logs/php-error.log 
+ls
+cd /app/wwwroot/dafen123.com/core/public/library/
+ls
+rz -bye
+tail -f /app/logs/php-error.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ls
+tail -f /app/logs/php-error.log 
+bc
+cd /app/mysql/logs/
+cd .
+cd /
+clear
+tail -f /app/logs/php-error.log 
+tail -f /usr/local/services/mysql/
+whereis slow*
+tail -f /app/mysql/logs/slow_queries.log 
+tail /app/mysql/logs/slow_queries.log 
+tail -f  /app/mysql/logs/slow_queries.log 
+tail -f  /app/mysql/logs/error.log 
+tail -f  /app/mysql/logs/slow_queries.log 
+bc
+tail -f /tmp/videoauth_rz.log 
+bc
+tail -f /tmp/videoauth_rz.log 
+tail -f /app/logs/php-error.log 
+ll
+crontab -e
+vi /app/wwwroot/dafen123.com/errorlogs/mail/count_hot.log
+vi /app/wwwroot/dafen123.com/errorlogs/mail/count_fate.log 
+ll
+cd /app/wwwroot/dafen123.com/errorlogs/mail/
+ll
+vi count_fate.log 
+vi count_hot.log 
+ll
+tail /app/wwwroot/dafen123.com/errorlogs/mail/count_hot.lo
+tail /app/wwwroot/dafen123.com/errorlogs/mail/count_hot.log 
+tail /app/wwwroot/dafen123.com/errorlogs/mail/count_fate.log 
+crontab ie
+crontab -e
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/tmp_online_user_msg.php 
+vi /app/wwwroot/dafen123.com/crontab/tmp_online_user_msg.php 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/tmp_online_user_msg.php 
+/usr/local/services/redis/bin/redis-cl
+/usr/local/services/redis/bin/redis-cli
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/php-error.log 
+ps axf
+kill -HUP 23712
+ps axf
+cd /usr/local/services
+cd nginx/
+ls
+vim conf/nginx.conf
+ls
+ll
+cd /app/wwwroot/dafen123.com/core/public/
+ll
+cd config/
+ll
+vi config.cfg.php 
+ll
+cd /app/wwwroot/
+ll
+cd phpmyadmin/
+vi config.inc.php 
+mysql
+vi config.inc.php 
+mysql -u search -h  10.156.194.215 -p
+mysql -u dev -h  10.156.194.215 -p
+vi config.inc.php 
+mysql -u dev -h  10.156.194.215 -p
+mysql -u search -h  10.156.194.215 -p
+vi config.inc.php 
+sz config.inc.php 
+vi config.inc.php 
+mv config.inc.php config.inc.php.bak
+rz 
+vi config.inc.php 
+ll
+vi /app/wwwroot/dafen123.com/core/public/config/config.cfg.php 
+vi /usr/local/services/nginx/conf/nginx.conf
+vi /app/wwwroot/dafen123.com/core/public/config/config.cfg.php 
+vi /usr/local/services/nginx/conf/nginx.conf
+/usr/local/services/nginx/sbin/nginx -s reload
+ps -ef |grep nginx
+kill 23712
+ps -ef |grep nginx
+/usr/local/services/nginx/sbin/nginx -c /usr/local/services/nginx/conf/nginx.conf
+ps -ef |grep nginx
+ll
+cd /app/wwwroot/dafen123.com/www.dafen123.com/control/
+ll
+vi index.ctl.php 
+vi /app/wwwroot/dafen123.com/core/public/config/config.cfg.php 
+echo -> /app/logs/wanggl.log 
+tail /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+vim /app/wwwroot/dafen123.com/core/public/config/config.cfg.php 
+ll
+vi /app/wwwroot/phpmyadmin/config.inc.php
+tail -f /app/logs/php-error.log 
+ll
+mysql
+cd /app/mysql/
+ll
+cd data/
+ll
+ls -s | sort -k 1 -n
+ls -s | sort -k 1 -r
+ll
+ll -Srh
+top
+vi /app/wwwroot/phpmyadmin/config.inc.php
+ll
+vi /app/wwwroot/dafen123.com/crontab/table.php 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/table.php 
+clear
+tail -f /app/mysql/logs/slow_queries.log 
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/wangl.log
+tail -f /app/logs/wanggl.log
+ll
+crontab -e
+history |grep redis
+/usr/local/services/redis/bin/redis-cli  -h 10.146.2.216
+cat /root/.ssh/authorized_keys 
+tail -f /app/mysql/logs/slow_queries.log 
+tail -f /app/logs/php-error.log 
+mysql
+ll
+cd /app/wwwroot/phpmyadmin/
+vi config.inc.php
+cd /tmp/
+vi impression.log
+tail -f impression.log 
+ls
+tail -f impression.log 
+vi impression.log 
+ls impression.log 
+ls -l impression.log 
+chmod 777 impression.log 
+tail -f impression.log 
+cd /app/wwwroot/dafen123.com/
+ls
+cd errorlogs/
+ls
+tail -f facebook2012-08-30.log 
+bc
+ls
+
+vi chenwh_check.php 
+php chenwh_check.php 
+60001735[0] => 60001735
+php chenwh_check.php 
+cd /app/wwwroot/dafen123.com/crontab/
+php chenwh_check.php 
+tail -f /app/mysql/logs/slow_queries.log 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/table.php 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+df
+cd /app/
+ls
+cd logs/
+ls
+ps axf
+ls
+ls -lh
+cd ..
+ls
+cd /var/log/
+ls -lh
+> mail.log
+rm -rf mail.log.*
+ls
+df
+ps axf
+cd ..
+df -hT
+ls
+du -sh log/
+ls
+vim /etc/rsyslog.conf 
+/etc/init.d/rsyslog restart
+ps axf
+ls /app/logs
+ls -lh
+df
+cd /app/
+ls
+cd /root/
+ls
+cd bin/
+ls
+df
+ps axf
+cd /var/
+ls
+ps axf
+cd lo
+cd log
+ls
+tail -f mail.
+tail -f mail.log 
+df -h
+vim /etc/postfix/main.cf 
+ls
+vim /etc/rsyslog.conf 
+ls
+vim /etc/rsyslog.conf 
+ls
+tail -f /app/logs/maillog 
+vim /etc/default/rsyslog 
+ps axf
+ls /var/log/
+cd /etc/rsyslog.d/
+ls
+vim postfix.conf 
+ls /var/spool/postfix/dev/ -lh
+vim postfix.conf 
+cd ..
+ls
+cd rsyslog.d/
+ls
+cat *
+ls
+vim 20-ufw.conf 
+ls
+vim 21-cloudinit.conf 
+ls
+vim 50-default.conf 
+vim /etc/rsyslog.conf 
+/etc/init.d/rsyslog restart
+ps axf
+cd /app/
+ls
+cd logs/
+ls
+tail -f mail.
+tail -f mail.log 
+df
+cat /root/.ssh/authorized_keys 
+ls
+cd /app/wwwroot/dafen123.com/crontab/
+php cron_admin_noface_feed1.php 
+tail -f /app/logs/php-error.log 
+php cron_admin_noface_feed1.php 
+tail -f /app/logs/php-error.log 
+cd /app/wwwroot/dafen123.com/up.dafen123.com/i/
+ls
+cd /app/wwwroot/dafen123.com/crontab/
+ls
+php cron_admin_noface_feed1.php 
+tail -f /app/logs/php-error.log 
+php cron_admin_noface_feed1.php 
+clear
+php cron_admin_noface_feed1.php 
+php get_noface_feed_cache.php 
+php cron_admin_noface_feed1.php 
+php cron_admin_noface_feed2.php 
+php get_noface_feed_cache.php 
+php cron_admin_noface_feed1.php 
+php cron_admin_noface_feed2.php 
+php get_noface_feed_cache.php 
+crontab -e
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/php-error.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/php-error.log 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/table2.php 
+tail -f /app/logs/wang
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/php-error.log 
+mysql
+mystat 
+ls
+cd bin/
+ls
+cd bin/
+ls
+cd ..
+ls
+rsync -avz bin ec2-54-248-50-34.ap-northeast-1.compute.amazonaws.com:/root/
+vim .bashrc 
+vim /etc/rc.local 
+vi /app/wwwroot/phpmyadmin/config.inc.php
+ll
+df
+cd /var/log/
+ls
+ls -lh
+rm syslog.1 
+> syslog
+df -hT
+ls -l
+ls -lh
+cd pure-ftpd/
+ls -l
+cd /
+ls
+du -sh usr/
+du -sh var/
+df -hT
+cd var/
+ls
+ls |xargs du -sh
+cd spool/
+ls
+ls |xargs du -sh
+cd postfix/
+ls
+ls |xargs du -sh
+postqueue -p
+postqueue -d ALL
+postqueue -D ALL
+postsuper -d ALL
+cd /etc/postfix/
+ls
+grep spool * -R
+vim main.cf 
+ls /app/
+mkdir /app/postfix
+mkdir /app/postfix/spool
+mkdir /app/spool
+mkdir /app/spool/postfix
+ps aux
+ls
+ls /app/spool/postfix/
+ls
+vim main.cf 
+/etc/init.d/postfix restart
+cd /app/spool/
+ls
+cd postfix/
+ls
+cd /app/
+ls
+rm -rf postfix/
+ls
+df
+df -hT
+ls
+crontab  -e
+:/app/wwwroot/dafen123.com/stat.dafen123.com
+:/app/wwwroot/dafen123.com/stat.dafen123.com/build_stat_data.php 
+vi /app/wwwroot/dafen123.com/stat.dafen123.com/build_stat_data.php
+vi /app/wwwroot/phpmyadmin/config.inc.php
+:q
+cd /tmp/
+ll
+rm admin_debug.log 
+rm feed.log 
+ll
+cd uploadlog/
+ll
+rm 201208/
+rm -rf 201208
+ll
+cd ..
+ll
+cd /app/mysql/
+ll
+cd logs/
+ll
+rm error.log 
+ll
+vi error.log 
+ll
+df -h
+vi slow_queries.log 
+ll
+df -h
+cd /app/
+ll
+cd logs/
+ll
+tail -f mail.log 
+rm mail.log
+ll
+df -h
+ll
+vi php-error.log 
+ll
+df -h
+ll
+tail -f mail.err 
+crontab -e
+tail -f /app/logs/php-error.log 
+vi /app/logs/pay_refunded.log
+ll
+vi /app/wwwroot/dafen123.com/core/public/config/config.cfg.php 
+cd /app/wwwroot/dafen123.com/www.dafen123.com/control/
+ls
+rz -bye
+cd ../
+ls
+cd core/public/library/
+ls
+rz -bye
+ls
+rz -bye
+vim /app/wwwroot/dafen123.com/core/public/config/mydb/user.mydb.php 
+vim /app/wwwroot/dafen123.com/core/public/config/mydb/online.mydb.php 
+vim /app/wwwroot/dafen123.com/crontab/set_28_online_time.php 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/set_28_online_time.php 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/table2.php 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ls
+cd /app/wwwroot/dafen123.com/crontab/
+ls
+vi chenwh_check.php 
+php chenwh_check.php 
+vi chenwh_check.php 
+php chenwh_check.php 
+vi chenwh_check.php 
+cd /app/wwwroot/dafen123.com/crontab/
+ls
+vi chenwh_check.php 
+php chenwh_check.php 
+vi chenwh_check.php 
+crontab -e
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+cd /app/wwwroot/dafen123.com/crontab/
+ls
+vi chenwh_check.php 
+crontab -e
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ls
+cd /app/wwwroot/dafen123.com/crontab/
+ls
+vi chenwh_check.php 
+php chenwh_check.php 
+ls
+cd /app/wwwroot/dafen123.com/www.
+ls
+cd control/
+ls
+vi pay.ctl.php 
+vi /app/wwwroot/dafen123.com/crontab/chenwh_check.php 
+php /app/wwwroot/dafen123.com/crontab/chenwh_check.php 
+vi /app/wwwroot/dafen123.com/crontab/chenwh_check.php 
+php /app/wwwroot/dafen123.com/crontab/chenwh_check.php 
+vi /app/wwwroot/dafen123.com/crontab/chenwh_check.php 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ll
+df -h
+cd /tmp/
+ll
+cd /app/logs/
+ll
+tail -f mail.log 
+echo "this is a test"|mail -s testmail root
+service postfix stauts
+/etc/init.d/postfix status
+/etc/init.d/postfix start
+/etc/init.d/postfix status
+cd /app/wwwroot/dafen123.com/mail/
+ll
+rz
+/usr/local/services/php5-fcgi/lib/php testmail.php 
+/usr/local/services/php5-fcgi/bin/php testmail.php 
+vi testmail.php 
+/usr/local/services/php5-fcgi/bin/php testmail.php 
+vi testmail.php 
+rm testmail.php 
+/usr/local/services/php5-fcgi/bin/php testmail.php 
+echo -> /app/logs/wanggl.log
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl/log
+echo -> /app/logs/wanggl.log
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/php-error.log 
+ps axf
+df
+postqueue -a
+postqueue -d
+postqueue -p
+postqueue -pl
+postqueue -l
+postqueue -p|wc -l
+postqueue -l
+postqueue -p
+postqueue -p|wc -l
+ls
+tail -f /app/logs/mail.
+tail -f /app/logs/maillog 
+tail -f /app/logs/mail.log 
+history |grep post
+postsuper -d ALL
+/etc/init.d/postfix restart
+ls
+tail -f /app/logs/mail.log 
+ls /app/spool/postfix/public/
+mkfifo /app/spool/postfix/public/pickup
+/etc/init.d/postfix restart
+tail -f /app/logs/mail.log 
+mkfifo /app/spool/postfix/public/cleanup
+/etc/init.d/postfix restart
+tail -f /app/logs/mail.log 
+ls -l /var/spool/postfix/public/
+chown postfix:postdrop /app/spool/postfix/public/* -R
+/etc/init.d/postfix restart
+tail -f /app/logs/mail.log 
+ls -l /app/spool/postfix/public/
+chmod 666 /app/spool/postfix/public/*
+ls -l /app/spool/postfix/public/
+/etc/init.d/postfix restart
+ls -l /app/spool/postfix/public/
+tail -f /app/logs/mail.log 
+cd /etc/postfix/
+grep cleanup * -R
+vim master.cf 
+ls
+grep cleanup * -R
+grep spool * -R
+vim main.cf 
+tail -f /app/logs/mail.log 
+chmod 755 /app/spool/postfix/public -R
+/etc/init.d/postfix restart
+tail -f /app/logs/mail.log 
+/etc/init.d/postfix stop
+ls
+vim main.cf 
+cd /app/spool/
+ls
+cd postfix/
+ls
+ls -l
+cd maildrop/
+ls -l
+/etc/init.d/postfix stop
+cd ..
+ls
+cd ..
+ls
+rm -rf postfix/
+cd /var/spool/
+ls -l
+mv postfix /app/spool/
+ln -s /app/spool/postfix /var/spool/postfix
+cd /etc/postfix/
+vim main.cf 
+> /app/logs/mail.log 
+/etc/init.d/postfix start
+tail -f /app/logs/maillog 
+tail -f /app/logs/mail.log 
+vim /etc/rsyslog.conf 
+ls
+vim main.cf 
+grep log * -R
+vim /etc/rsyslog.d/postfix.conf 
+cd /etc/rsyslog.d/
+grep log *
+vim 50-default.conf 
+tail -f /app/logs/mail.err 
+ls /var/spool/postfix/public/
+ls /var/spool/postfix/public/ -l
+tail -f /app/logs/mail.log 
+ps axf
+/etc/init.d/postfix start
+tail -f /app/logs/mail.log 
+mkfifo /var/spool/postfix/public/pickup
+cd ..
+cd postfix/
+ls
+vim main.cf 
+cd /var/spool/
+ls -l
+cd postfix
+ls
+ls -l
+cd public/
+ls
+ls -l
+/etc/init.d/postfix stop
+rm -rf *
+/etc/init.d/postfix start
+ls -l
+less /app/logs/mail.log 
+mkfifo cleanup
+/etc/init.d/postfix restart
+less /app/logs/mail.log 
+ps axf
+ls
+/etc/init.d/postfix restart
+less /app/logs/mail.err 
+tail /app/logs/mail.log 
+ls -l
+chmod 666 *
+/etc/init.d/postfix restart
+tail /app/logs/mail.log 
+/etc/init.d/postfix restart
+tail /app/logs/mail.log 
+ls
+cd ..
+ls
+/etc/init.d/postfix stop
+ls
+/etc/init.d/postfix start
+ls
+less /var/log/mail.log
+less /app/logs/mail.log 
+ls -l
+cd public/
+ls -l
+chown postfix * -R
+/etc/init.d/postfix restart
+less /app/logs/mail.log 
+ls
+rm -rf *
+ls -l
+id postfix
+ls
+chown postfix:postdrop ../public -R
+/etc/init.d/postfix restart
+less /app/logs/mail.log 
+/etc/init.d/postfix restart
+less /app/logs/mail.log 
+ls
+ls -l
+/etc/init.d/postfix stop
+ls
+cd /app/
+ls
+rm /var/spool/postfix
+ls
+mv /app/spool/postfix /var/spool/
+> /app/logs/mail.log 
+/etc/init.d/postfix start
+/etc/init.d/postfix restart
+ps axf
+tail -f /app/logs/mail.log 
+vim /etc/postfix/main.cf 
+cp /opt/main.cf /etc/postfix/
+vim /etc/postfix/main.cf 
+tail -f /app/logs/mail.log 
+tail -f /app/logs/mail.err 
+tail -f /app/logs/mail.log 
+tail -f /app/logs/mail.err 
+tail -f /app/logs/mail.log 
+postqueue -p
+cd /opt
+ls
+ls -l
+ls -l /usr/local/services
+ls
+tar -zxvf FlashMediaServer4_x64.tar.gz 
+cd FMS_4_0_0_r1121/
+ls
+./installFMS 
+aptitude install libcap
+aptitude searh libcap
+aptitude search libcap
+aptitude install libcap2 libcap-dev
+./installFMS 
+vim installFMS 
+./installFMS 
+aptitude search cap
+aptitude search libcap
+aptitude install libcap2-dev 
+apt-get install libpcap-dev
+find / -name libcap*
+vim installFMS 
+./installFMS 
+aptitude search libnspr4
+aptitude install libnspr4-dev
+./installFMS 
+netstat -nlp
+cd /usr/local/services/fms/
+ls
+tail -f logs/admin.00.log 
+cd logs
+ls -l
+tail -f master.rot 
+ps axf
+cd /lib64/
+ls
+cd ld
+cd /opt
+cd FMS_4_0_0_r1121/
+ls
+vim installFMS 
+cd /lib/x86_64-linux-gnu/
+ls
+ls -l libcap.*
+ln -s libcap.so.2 libcap.so.1
+/etc/init.d/fms restart
+ps axf
+netstat -nlp
+cd /usr/local/services/fms/
+ls
+vim conf/fms.ini 
+ps axf
+vim conf/fms.ini 
+cd conf/
+ls
+grep "/usr/local" * -R
+vim fms.ini 
+grep "/usr/local" * -R
+/etc/init.d/fms restart
+ps axf
+netstat -nlp
+df
+cd /etc/postfix/
+vim main.cf 
+cd /var/spool/
+ls
+cd pu
+ls
+cd postfix/
+ls
+cd public/
+ls -l
+cd ..
+ls -l
+cd public/
+ls -l
+/etc/init.d/postfix restart
+ps aux | grep mail
+/etc/init.d/postfix stop
+ps aux | grep mail
+ls -l
+rm pickup 
+mkfifo /var/spool/postfix/public/pickup
+ls -l
+chown postfix pickup 
+ls -l
+chmod 666 pickup 
+ls -l
+/etc/init.d/postfix restart
+df
+cd ..
+ls -l
+dpkg-reconfigure postfix
+ls -l
+cp /etc/postfix/main.cf /opt
+ls
+cd ..
+dpkg-reconfigure postfix
+/etc/init.d/postfix restart
+vim /etc/postfix/master.cf 
+ps axf
+/etc/init.d/postfix restart
+cd postfix/
+ls
+cd public/
+ls -l
+mkfifo /var/spool/postfix/public/pickup
+rm pickup 
+mkfifo /var/spool/postfix/public/pickup
+/etc/init.d/postfix restart
+ps axf
+dmesg 
+less /var/log/syslog
+vim /etc/postfix/main.cf 
+ZZ/etc/init.d/sendmail stop 
+/etc/init.d/sendmail stop 
+ps axf|grep mail
+ls -l
+ls
+rm -rf pickup 
+/etc/init.d/postfix restart
+ls -l
+mkfifo /var/spool/postfix/public/pickup
+ls -l
+chown postfix pickup 
+/etc/init.d/postfix restart
+vim /etc/init.d/postfix 
+df
+cd /var/spool/
+ls -l
+cd postfix/
+ls -l
+vim /etc/postfix/main.cf 
+/etc/init.d/postfix restart
+ps axf|grep mail
+ps axf|grep postfix
+kill 6193
+/etc/init.d/postfix restart
+ps axf
+/etc/init.d/postfix restart
+/etc/init.d/postfix stop
+ps axf|grep postfix
+ls
+cd /app/spool/
+ls
+mv /var/spool/postfix ./
+ln -s /app/spool/postfix /var/spool/postfix
+/etc/init.d/postfix restart
+ls -
+cd /var/spool/
+ls
+cd p
+cd postfix
+ls -l
+cd ls /usr/local/services/fmsid nobody
+id nobody
+top
+ls
+cd /app/wwwroot/dafen123.com/
+ll
+cd core/
+ll
+cd public/
+ll
+cd library/
+ll
+cd facebook/
+ll
+cd ../
+ll
+cd config/
+ll
+vim config.cfg.php 
+cd ../library/
+ll
+vim facebook.lib.php 
+cd facebook/
+ll
+vim base_facebook.php 
+ll
+cd ../
+ll
+tail -f /app/logs/php-error.log 
+redis-cli
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+cd /usr/local/services
+cd nginx/
+ls
+vim conf/nginx.conf
+cd /usr/local/services/fms/applications/rz
+ll
+cd video/
+ll
+cd 3b/
+ll
+cd d2
+ll
+cd /app/wwwroot/dafen123.com/pic.dafen123.com/
+ll
+cd v
+ll
+cd g
+ll
+vi main.css 
+ll
+tail -f /app/logs/wanggl.log 
+/usr/local/services/redis/bin/redis-cli  -h 10.146.2.216
+ll
+cd /app/logs
+ll
+:q
+cd /usr/local/services
+ls
+cd php5-fcgi
+less logs/slow.log 
+tail -f /app/logs/php-error.log 
+tail  -f /app/logs/pay_refunded.log 
+vi /app/logs/pay_refunded.log 
+exit
+vim /app/wwwroot/dafen123.com/core/public/view/g_footer.view.php 
+netstat -nlp
+vim /etc/postfix/main.cf 
+ifconfig 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+df
+df -hT
+tail -f /app/logs/php-error.log 
+bc
+crontab -e
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ps axf
+ls
+ps axf
+kill -HUP 14118
+ps axf
+vi /app/wwwroot/dafen123.com/core/public/config/config.cfg.php 
+tail -f /app/logs/php-error.log 
+tail -f /app/logs/php-error.log 
+/app/logs/php-error.log 
+ll
+cd /tmp/
+ll
+mkdir video_order
+chown nobody.nobody video_order/
+ll
+chmod 755 video_order/
+ll
+cd video_order/
+ll
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/statpay201209_1_15.php 
+top
+quit
+top
+exit
+/app/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/php-error.log 
+ls
+cd /app/wwwroot/dafen123.com/core/public/config/
+ls
+vi config.cfg.php 
+vi /app/wwwroot/dafen123.com/crontab/statpay201209_1_15.php 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/statpay201209_1_15.php
+tail -f /app/logs/php-error.log 
+/app/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/php-error.log 
+bc
+/app/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/php-error.log 
+/app/services/redis/bin/redis-cli -h 10.146.2.216
+/app/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/php-error.log 
+tail -f /tmp/order/201209/20120923.log 
+ls
+ls
+cd /app/wwwroot/dafen123.com/core/public/view/
+cd ../
+ls
+cd config/
+ls
+vi config.cfg.php 
+vim /app/wwwroot/dafen123.com/www.dafen123.com/control/index.ctl.php 
+tail -f /app/logs/php-error.log 
+cd /app/wwwroot/dafen123.com/core/public/config/
+ls
+vi config.cfg.php 
+tail -f /app/logs/php-error.log 
+ll
+vi /app/wwwroot/dafen123.com/www.dafen123.com/control/index.ctl.php 
+vi /app/wwwroot/dafen123.com/core/runtime.php 
+cd /tmp/
+ll
+vi /app/wwwroot/dafen123.com/www.dafen123.com/control/index.ctl.php 
+cd /app/wwwroot/dafen123.com/
+ls
+cd core/
+ls
+vi runtime.php 
+ll
+vi /app/wwwroot/dafen123.com/www.dafen123.com/control/index.ctl.php 
+ll
+df -h
+cd /app/logs/
+ll
+rm mail.log 
+ll
+df -h
+crontab  -e
+ll
+cd /app/wwwroot/dafen123.com/crontab/
+vi alarm_sms_server.php 
+cd /app/logs/
+ll
+tail -f alarm_sms_server 
+/app/wwwroot/dafen123.com/ 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/alarm_sms_server.php 
+ll
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/alarm_sms_server.php 
+ll
+tail -f alarm_sms_server 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/alarm_sms_server.php 
+tail -f /app/logs/php-error.log 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/alarm_sms_server.php 
+tail -f /app/logs/php-error.log 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/alarm_sms_server.php 
+tail -f /app/logs/php-error.log 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/alarm_sms_server.php 
+tail -f /app/logs/php-error.log 
+tail -f /app/logs/php-error.log 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/stat_pay_click_order.php 
+tail -f /app/logs/php-error.log 
+cat /root/.ssh/authorized_keys 
+tail -f /app/logs/php-error.log 
+cd /usr/local/services
+cd nginx/
+vim conf/nginx.conf
+ps axf
+kill -HUP 14118
+df
+netstat -an
+ifconfig 
+netstat -nlp
+vim /etc/postfix/main.cf 
+ifconfig 
+vim /etc/postfix/main.cf 
+/etc/init.d/postfix restart
+tail -f /app/logs/php-error.log 
+vim /app/wwwroot/dafen123.com/www.dafen123.com/control/index.ctl.php 
+ls
+mail
+ls
+ps axf
+postqueue -p
+postsuper -d ALL
+postqueue -p
+vim /etc/postfix/main.cf 
+/etc/init.d/postfix restart
+ps axf|grep post
+kill 19784
+/etc/init.d/postfix restart
+ps axf|grep post
+ps axf|grep mail
+ls
+cd bin/
+ls
+tail -f /app/logs/php-error.log 
+ls
+cd /app/wwwroot/dafen123.com/_admin/include/
+ls
+vi Pay.class.php 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+cd /app/wwwroot/dafen123.com/core/public/config/
+ls
+vi config.cfg.php 
+postqueue -p
+less /var/log/mail.log
+less /var/log/mail.err
+cd /app/
+ls
+cd spool/
+ls
+cd postfix/
+ls
+cd ..
+ls
+cd ..
+ls
+cd logs/
+ls
+less mail.log 
+ls
+less mail.err 
+ls
+dmesg 
+less /var/log/kern.log
+ls
+ps axf
+postqueue -p
+less mail.log 
+vim /etc/postfix/main.cf 
+dig mail.google.com
+dig xiaobinginc.com
+less mail.log 
+history |grep mail
+echo "this is a test"|mail -s testmail jiaosq@xiaobinginc.com
+less mail.log 
+postqueue -p
+echo "this is a test"|mail -s testmail jiaosq@kingtrident.com
+postqueue -p
+/etc/init.d/postfix stop
+ps axf|grep mail
+df
+/etc/init.d/postfix start
+postqueue -p
+ls
+less mail.log 
+vim /etc/postfix/main.cf 
+/etc/init.d/postfix restart
+less mail.log 
+sendmail
+/usr/sbin/sendmail
+postqueue -p
+/etc/init.d/postfix stop
+/etc/init.d/postfix start
+postqueue -p
+postsuper -d ALL
+echo "this is a test"|mail -s testmail jiaosq@kingtrident.com
+postqueue -p
+less mail.log 
+vim /etc/postfix/main.cf 
+ps axf
+top
+dmesg 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ls
+cd /app/wwwroot/dafen123.com/www.dafen123.com/
+ls
+cd control/
+ls
+vi index.ctl.php 
+tail -f /app/logs/php-error.log 
+crontab -e
+ssh -ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com
+vi /app/wwwroot/dafen123.com/core/public/library/pay.lib.php 
+ssh ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com
+ssh haozhu99@ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com
+ssh root@ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com
+crontab -e
+ssh -q ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com
+crontab -e
+vim /etc/postfix/main.cf 
+vim /etc/opendkim.conf 
+vim /etc/postfix/main.cf 
+vim /etc/opendkim.conf 
+vim /etc/postfix/main.cf 
+vim /etc/opendkim.conf 
+ps axf
+ll
+cd /app/wwwroot/phpmyadmin/
+sz config.inc.php
+cd /app/services/fms/
+ls
+cd ..
+cd redis/
+ls
+cd conf/
+ls
+vi redis.conf 
+sz redis.conf 
+cd ../..
+ls
+cd libmemcached/
+ls
+cd include/
+ls
+cd /usr/local/services/
+ls
+cd libmemcached/
+ls
+cd share/
+ls
+history |grep redis
+/usr/local/services/redis/bin/redis-cli  -h 10.146.2.216
+ps -ax
+top
+ps -ef|grep def
+top
+ls
+pure-pw list
+pure-pw userdel fp_cwh
+pure-pw userdel ftp_cwh
+pure-pw userdel ftp_wgl
+pure-pw userdel ftp_yb
+pure-pw mkdb
+pure-pw useradd ftp_test  -u nobody -g nobody -d /app/wwwroot/dafen123.com/
+pure-pw mkdb
+df -h
+cd /app/services/
+ls
+cd libmemcached/
+ls
+crontab -l
+ssh 54.248.90.12
+vim /root/.ssh/authorized_keys 
+ifconfig 
+ssh ec2-54-248-50-34.ap-northeast-1.compute.amazonaws.com
+cat /root/.ssh/authorized_keys 
+ssh 54.248.90.12
+ssh ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com
+ssh ec2-54-248-50-34.ap-northeast-1.compute.amazonaws.com
+cd /app/
+ls
+cd wwwroot/
+ls
+ie翻墙代理
+:ie代理：http://58.215.161.84/dafen123.pac
+用户名:dafen123
+密码：dafen..newie翻墙代理
+:ie代理：http://58.215.161.84/dafen123.pac
+用户名:dafen123
+ll
+cd tmp
+ll
+cd ..
+cd /app/wwwroot
+ll
+cd dafen123.com/
+ll
+ls
+ping www.chat003.com
+ping www.chat002.com
+cd /app/
+ls
+cd wwwroot/
+ls
+cd phpmyadmin/
+ls
+vim config.inc.php
+ll
+cd /app/wwwroot/
+ll
+ssh ec2-54-248-50-34.ap-northeast-1.compute.amazonaws.com
+cd /opt
+ls
+wget http://s3fs.googlecode.com/files/s3fs-1.61.tar.gz
+tar -zxvf s3fs-1.61.tar.gz 
+cd s3fs-1.61/
+ls
+./configure --prefix= /usr/local/services/s3fs
+aptitude install build-essential  libfuse-dev fuse-utils  libcurl4-openssl-dev  libxml2-dev mime-support
+aptitude update
+aptitude install build-essential  libfuse-dev fuse-utils  libcurl4-openssl-dev  libxml2-dev mime-support
+./configure --prefix= /usr/local/services/s3fs
+ls
+./configure --prefix=/usr/local/services/s3fs
+make
+aptitude install build-essential libfuse-dev fuse-utils libcurl4-openssl-dev libxml2-dev mime-support
+make clean
+make
+./configure --prefix=/usr
+make clean
+make
+apt-get build-essential libfuse-dev fuse-utils libcurl4-openssl-dev libxml2-dev mime-support
+apt-get install build-essential libfuse-dev fuse-utils libcurl4-openssl-dev libxml2-dev mime-support
+apt-get install build-essential
+apt-get install libfuse-dev
+apt-get install fuse-utils
+apt-get install libcurl4-openssl-dev
+apt-get install libxml2-dev
+apt-get install mime-support
+./configure --prefix=/usr
+make
+make clean
+make
+ps axf
+cd /app/wwwroot/dafen123.com/
+ll
+mkdir tmp
+cd tmp
+rz -bye
+php cron_down_photo.php 
+ll
+rz -bye
+php cron_down_photo.php 
+vi cron_down_photo.php 
+php cron_down_photo.php
+ddddd
+cd /app
+ll
+pwd
+cd /wwwroot
+ll
+cd wwwroot/
+cd dafen123.com/
+ll
+cd crontab/
+ll
+cd ..
+ll
+cd tmp/
+ll
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+cd /app/wwwroot/dafen123.com/tmp/
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+cd /app/wwwroot/
+ll
+cd dafen123.com/
+ll
+mkdir img.dafen123.com
+ll
+chmod 644 img.dafen123.com/
+ll
+cd img.dafen123.com/
+ll
+cd b
+ll
+cd b4
+ll
+cd 52
+ll
+sz b452a0bd3332c92af2e82a2647c32996.jpg 
+ll
+rm b452a0bd3332c92af2e82a2647c32996.jpg 
+ll
+cd /app/wwwroot/
+ll
+cd dafen123.com/
+ll
+cd img.dafen123.com/
+ll
+cd b
+ll
+cd of
+ll
+cd 0f
+ll
+cd c6
+ll
+cd /app/wwwroot/
+ll
+cd dafen123.com/
+ll
+cd errorlogs/
+ll
+cd /app/wwwroot/
+ll
+cd dafen123.com/
+ll
+cd img.dafen123.com/
+ll
+cd b72/
+cd 25
+cd c3
+ll
+CD ..
+cd ..
+ll
+cd /app/wwwroot/
+ll
+cd dafen123.com/
+ll
+cd tmp/
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+ll
+cd ..
+cd errorlogs/
+vi down_photo.log 
+rm down_photo.log 
+rm down_photo_url.log 
+ll
+cd /app/wwwroot/
+ll
+cd dafen123.com/
+ll
+cd img.dafen123.com/
+ll
+ls -l |grep "^-"|wc -l
+ls -lR | grep "^-" | wc -l ls -lR | grep "^-" | wc -l 
+ls -lR | grep "^-" | wc -l 
+cd b/1c/98/
+ll
+sz 1c983d247dc8cffce7ca392fb8b80cb0.jpg 
+cd ,,
+cd ..
+ll
+rm -rf
+ll
+cd ..
+ll
+cd dafen123.com/
+ll
+cd www.dafen123.com/
+ll
+cd control/
+ll
+cd ..
+ll
+cd img.dafen123.com/
+ll
+rm -rf /app/wwwroot/dafen123.com/img.dafen123.com/* 
+ll
+cd ..
+ll
+cd img.dafen123.com/
+ll
+ls -lR | grep "^-" | wc -l 
+cd /app/wwwroot/dafen123.com/
+ll
+cd tmp/
+ll
+sz -bye
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+vi cron_down_photo.php
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+cd /app/wwwroot/dafen123.com/
+ll
+cd crontab/
+ll
+rz -bye
+php cron_down_photo.php 
+cd /app/wwwroot/dafen123.com/
+ll
+cd errorlogs/
+vi down_photo.log
+vi down_photo_url.log 
+cd /app/wwwroot/
+ll
+cd dafen123.com/
+ll
+cd crontab/
+ll
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+ll
+rm cron_down_photo.php 
+cd ..
+cd tmp/
+ll
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo.php 
+rz -bye
+php cron_down_photo_increase.php 
+rz -bye
+cd /app/wwwroot/dafen123.com/img.dafen123.com/
+ls -lR | grep "^-" | wc -l 
+cd /app/wwwroot/dafen123.com/tmp/
+ll
+/usr/local/php/bin/php cron_down_photo.php
+/usr/local/services/php5-fcgi/bin/php cron_down_photo.php
+rz -bye
+ll
+sh cron_down_photo.sh 
+vi cron_down_photo
+ll
+vi cron_down_photo.sh
+sh cron_down_photo.sh 
+rz -bye
+sh cron_down_photo.sh 
+cd /app/
+ll
+cd wwwroot/dafen123.com/
+ll
+cd img.dafen123.com/
+ls -lR | grep "^-" | wc -l 
+ll
+rm -rf /app/wwwroot/dafen123.com/img.dafen123.com/*
+ll
+ls -lR | grep "^-" | wc -l 
+cd /app/wwwroot/dafen123.com/tmp
+php cron_down_photo.php
+ll
+sh cron_down_photo.sh 
+rz -bye
+sh  cron_down_photo.sh 
+rz -bye
+sh cron_down_photo.sh 
+rz -bye
+sh cron_down_photo.sh 
+rz -bye
+sh cron_down_photo.sh 
+vi cron_down_photo.sh 
+sh cron_down_photo.sh 
+vi cron_down_photo.sh
+sh cron_down_photo.sh 
+vi cron_down_photo.sh
+sh cron_down_photo.sh 
+vi cron_down_photo.sh
+ll
+rm cron_down_photo.sh
+vi cron_down_photo.sh
+ll
+vi cron_down_photo.sh
+sh cron_down_photo.sh
+vi cron_down_photo.sh 
+ll
+rm *.log
+y
+vi cron_down_photo.sh
+sh cron_down_photo.sh 
+ll
+vi cron_down_photo_0_1.log
+cd /app/wwwroot/dafen123.com/errorlogs/mail/
+cd ..
+ll
+vi down_photo.log 
+ll
+ll down_photo.log 
+vi down_photo.log 
+cd ..
+cd errorlogs/
+vi success_pic_number.log 
+ll
+ll success_pic_number.log 
+vi failed_down_photo.log
+vi success_pic_number.log 
+vi failed_down_photo_url.log 
+vi failed_down_photo.log 
+vi success_pic_number_increase.log 
+cd /app/wwwroot/dafen123.com/tmp/
+php cron_down_photo.php
+cd /usr/local/php/bin
+cd /usr/
+cd local/
+cd php
+cd /usr/local/services/php5-fcgi
+ll
+cd bin
+ll
+pwd
+cd /app/wwwroot/dafen123.com/
+ll
+cd img.dafen123.com/
+ll
+rm -rf /app/wwwroot/dafen123.com/img.dafen123.com/*
+ll
+cd ..
+ll
+cd img.dafen123.com/
+ll
+ls -lR | grep "^-" | wc -l 
+cd /app/wwwroot/dafen123.com/tmp/
+ll
+vi cron_down_photo.sh
+ll
+rm *.log
+ll
+rm cron_down_photo_2_10.lg
+rz -bye
+sh cron_down_photo.sh 
+ll
+vi cron_down_photo_0_1.log 
+ll
+vi cron_down_photo_2_10.log 
+ll
+vi cron_down_photo.sh
+vi cron_down_photo.sh 
+ll
+rm -rf *.log
+ll
+sh cron_down_photo.sh 
+ll
+vi cron_down_photo_0_1.log 
+rz -bye
+ll
+sh cron_down_photo.sh 
+ll
+tail -f cron_down_photo_0_1.log 
+cd ..
+ll
+cd errorlogs/
+vi success_pic_number.log 
+vi failed_down_photo.log 
+cd ..
+cd tmp/
+ll
+sh cron_down_photo.sh 
+ll
+tail -f cron_down_photo_0_1.log 
+ll
+cd ..
+cd errorlogs/
+vi failed_down_photo.log 
+vi failed_down_photo_url.log 

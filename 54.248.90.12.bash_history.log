@@ -1,0 +1,2000 @@
+crontab -e
+cp /app/wwwroot/dafen123.com/crontab/receive_msg_queue.php /app/wwwroot/dafen123.com/crontab/receive_msg_queuetest.php
+cd /app/wwwroot/dafen123.com/crontab/
+ll
+vi receive_msg_queuetest.php 
+ll
+tail -f /app/wwwroot/dafen123.com/errorlogs/feed_ok.log 
+vi receive_msg_queuetest.php 
+tail -f /app/wwwroot/dafen123.com/errorlogs/feed_ok.log 
+tail -f /app/logs/php-error.log 
+tail -f /app/wwwroot/dafen123.com/errorlogs/feed_ok.log 
+tail -f /app/logs/php-error.log 
+cd /app/wwwroot/dafen123.com/up.dafen123.com/tmp
+ll
+vim /app/wwwroot/dafen123.com/up.dafen123.com/tmp/e868819fab0fd53e307829b7c7c656b4.jpg
+/usr/local/services/redis/bin/redis-cli 
+tail -f /app/logs/p
+tail -f /app/logs/php-error.log 
+ll
+cd /usr/local/services/php5-fcgi/logs/
+ll
+rm tmpslow.log 
+cp slow.log tmpslow.log
+ll
+rz tmpslow.log -bey
+rz tmpslow.log 
+sz tmpslow.log -bet
+sz tmpslow.log -bey
+ll
+vi slow.log 
+ll
+tail -f slow.log 
+ll
+tail -f php-fpm.log 
+ll
+cd ../../nginx/logs/
+ll
+vi error.log 
+ll
+cd /app/logs/
+ll
+tail -f pay_refunded.log 
+tail -f pay_placed.log 
+ll
+vi pay_success.log 
+ll
+rm pay_Success.log 
+ll
+tail -f php-error.log 
+cp php-error.log bak_php-error-8-3.log
+ll
+vi bak_php-error-8-3.log 
+ll
+vi php-error.log 
+ll
+sz bak_php-error-8-3.log 
+ps axf
+top
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/php-error.log 
+ps axf
+ll
+cd /app/logs/
+ll
+tail -f php-error.log 
+LL
+ll
+cd /tmp/
+ll
+tail -f /app/logs/php-error.log 
+ll
+rm regphoto_99fc180f60a1c781586af7c1b0a7e6b3.jpg 
+rm 99fc180f60a1c781586af7c1b0a7e6b3.jpg 
+ll
+vi crontab.t33b4y/
+ll
+vi no_uid_main.log 
+vi no_uid_index.log 
+ll
+vi favi_error.log 
+ll
+tail -f /app/logs/php-error.log 
+tail -f php-fpm.sock 
+tail -f favi_error.log 
+ll
+cd /usr/local/services/php5-fcgi
+ll
+cd logs/
+ll
+tail -f slow.log 
+ll
+cp slow.log slow83.log
+vi slow83.log 
+ll
+cd ..
+ll
+cd etc/
+ll
+vi php-fpm.conf 
+ll
+cd ..
+cd logs/
+sz slow83.log 
+ll
+cd /tmp/
+ll
+tail -f favi_error.log 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/table.php 
+vim /app/wwwroot/dafen123.com/crontab/table.php 
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/php-error.log 
+cd /app/wwwroot/dafen123.com/crontab/
+ll
+/usr/local/services/php5-fcgi/php /app/wwwroot/dafen123.com/crontab/mredis_con_login.php 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/mredis_con_login.php 
+vim stat_con_login.php 
+crontab  -e
+crontab -e
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/stat_con_login.php 
+keys con_login:*
+/usr/local/services/redis/bin/redis-cli 
+tail -f /app/logs/php-error.log 
+sz /app/wwwroot/dafen123.com/up.dafen123.com/tmp/tmp_setface_af7f53c49cd8bbb62ebc99c7cb430f9e.jpg 
+history |grep wkhtmltoimage
+/usr/local/services/wkhtmltoimage  --crop-w 420 'https://www.dafen123.com/score/cut_photo?photo_id=31251' aa.jpg
+ll
+cd /tmp/
+/usr/local/services/wkhtmltoimage  --crop-w 420 'https://www.dafen123.com/score/cut_photo?photo_id=31251' aa.jpg
+ll
+/usr/local/services/wkhtmltoimage  --crop-w 420 'https://www.dafen123.com/score/cut_result/?pid=2894151' ana.jpg
+ll
+sz ana.jpg 
+/usr/local/services/wkhtmltoimage  --crop-w 420 'https://www.dafen123.com/score/cut_photo/?photo_id=31251' aa.jpg
+/usr/local/services/wkhtmltoimage  --crop-w 420 'https://www.dafen123.com/score/cut_photo/?photo_id=31251' aas.jpg
+ll
+sz aas.jpg 
+wget https://www.dafen123.com/score/cut_photo/?photo_id=31251
+sz index.html\?photo_id\=31251 
+ll
+mv index.html\?photo_id\=31251 index.html
+sz index.html 
+wget https://www.dafen123.com/score/cut_result/?pid=2894151
+mv index.html\?pid\=2894151 dex.html
+sz dex.html 
+iptables 
+iptables -lf
+history |grep iptable
+tail -f no_uid_index.log 
+tail -f /app/logs/php-error.log 
+vi /app/logs/php-error.log 
+tail -f /app/logs/php-error.log 
+ll
+tail -f /app/logs/php-error.log 
+cd /app/logs/
+ll
+cd /tmp/
+ll
+rm aa.jpg 
+rm aas.jpg 
+rm ana.jpg 
+ll
+vi no_uid_index.log 
+ll
+sz no_uid_index.log 
+tail -f /app/logs/php-error.log 
+tail -f /tmp/debug
+tail -f /tmp/debug.log 
+cd /tmp/
+ll
+rm dex.html 
+ll
+rm index.html 
+rm bakdebug.log 
+ll
+tail favi_error.log 
+ll
+rm favi_error.log 
+tail -f feed.log 
+tail -f /app/logs/php-error.log 
+cd /app/wwwroot/dafen123.com/errorlogs
+ll
+vi admin_feed_ok.log 
+vi admin_feed.log 
+tail -f admin_feed.log 
+ll
+vi admin_feed_ok.log 
+ll
+tail -f admin_photo_feed.log 
+ll
+cd /app/logs/
+ll
+cd /app/wwwroot/dafen123.com/errorlogs
+ll
+tail -f admin_photo_feed.log 
+cd ..
+ll
+cd up.dafen123.com/tmp/
+sz tmp_fsetface_f5f87e1874aa15ad20f6af86f7d3a8c8.jpg 
+ll
+cd /app/wwwroot/dafen123.com/errorlogs/
+ll
+tail -f admin_photo_feed.log 
+ll
+tail -f admin_feed.log 
+ll
+tail -f admin_photo_feed.log 
+tail -f /app/logs/php-error.log 
+tail -f admin_photo_feed.log 
+cd /app/wwwroot/dafen123.com/up.dafen123.com/tmp/
+ll
+sz tmp_fsetface_b34eb687da718e16a749445928886519.jpg 
+cd -
+ll
+tail -f admin_photo_feed.log 
+ll
+tail -f admin_photo_feed.log 
+cd /app/wwwroot/dafen123.com/up.dafen123.com/tmp/
+tail -f /app/logs/php-error.log 
+cd -
+cd /app/wwwroot/dafen123.com/errorlogs/
+ll
+tail -f admin_photo_feed.log 
+[uid_creat]
+table  = t_uid_creat
+index  = uid
+server = user
+dbname = reg
+tail -f /app/wwwroot/dafen123.com/errorlogs/admin_photo_feed.log 
+cd /app/wwwroot/dafen123.com/errorlogs
+ll
+tail -f admin_photo_feed_ok.log 
+tail -f admin_photo_feed.log 
+ll
+cd /app/wwwroot/dafen123.com/errorlogs/
+ll
+vi admin_photo_feed_ok.log 
+cd /tmp
+ll
+tail -f /app/logs/php-error.log 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/table.php 
+top
+ping www.facebook.com
+cd /app/wwwroot/
+ls
+cd dafen123.com/
+ls
+grep facebook.com * -R
+ping api.facebook.com
+vim core/public/library/facebook/base_facebook.php 
+/usr/local/services/redis/bin/redis-cli 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+cd /tmp/
+ll
+tail -f rate.log 
+/usr/local/services/redis/bin/redis-cli 
+tail -f rate.log 
+/usr/local/services/redis/bin/redis-cli 
+tail -f /app/logs/php-error.log 
+vim /app/wwwroot/dafen123.com/www.dafen123.com/control/index.ctl.php 
+/usr/local/services/redis/bin/redis-cli 
+tail -f /tmp/rate.log 
+vi /tmp/rate.log 
+tail -f /tmp/rate.log 
+tail -f /app/logs/php-error.log 
+tail -f /tmp/rate.log 
+tail -f /app/logs/php-error.log 
+tail -f /tmp/rate.log 
+/usr/local/services/redis/bin/redis-cli 
+cd /usr/local/services/redis/conf/
+ll
+vi redis.conf 
+/usr/local/services/redis/bin/redis-cli 
+ll
+df
+df -hT
+cd /tmp
+ll
+tail -f rate.log 
+tail -f ping_test.log 
+vi ping_test.log 
+cd /app/
+ls
+df -hT
+mkdir log
+chmod 777 log/
+vim /etc/fstab
+df
+df -hT
+reboot
+df
+df -hT
+cd /app/
+ls
+df -hT
+ls
+ps axf
+cd /usr/local/
+ls
+ls -l
+aptitude install rcconf
+rcconf 
+aptitude install dialog
+ls
+ls -l
+id nobody
+ps axf
+ls
+rcconf 
+/etc/init.d/pure-ftpd stop
+ps axf
+ifconfig 
+cd /usr/local/services
+ls
+cd nginx/
+ls
+rm -rf logs/*
+cd ..
+ls
+cd php5-fcgi
+ls
+rm -rf logs/*
+ls
+cd ..
+ls
+cd nginx/
+sbin/nginx -c conf/nginx.conf
+cd ..
+cd php5-fcgi
+vim etc/php-fpm.conf 
+top
+ps axf
+ls
+vim etc/php-fpm.conf 
+sbin/php-fpm start
+ps axf
+vim /etc/rc.local 
+ps axf
+top
+ifconfig 
+ps axf
+top
+df
+ifconfig 
+ls
+cd bin/
+ls
+vim nginx_req.pl 
+./nginx_req.pl 
+top
+df -hT
+cat /root/.ssh/authorized_keys 
+ll
+cd /app/wwwroot/dafen123.com/
+ll
+vi test.php 
+/usr/local/services/php5-fcgi/bin/php test.php 
+vi test.php 
+/usr/local/services/php5-fcgi/bin/php test.php 
+cd ~
+ll
+vi .vimrc 
+cd -
+/usr/local/services/php5-fcgi/bin/php test.php 
+ping 54.248.121.100
+vi test.php 
+/usr/local/services/php5-fcgi/bin/php test.php 
+:q
+cd /usr/local/services/
+ll
+rm abb.jpg 
+ll
+usr/local/services/wkhtmltoimage  --crop-w 420 'https://www.dafen123.com/score/cut_result/?pid=2894151' ana.jpg
+/usr/local/services/wkhtmltoimage  --crop-w 420 'https://www.dafen123.com/score/cut_result/?pid=2894151' ana.jpg
+ll
+sz ana.jpg 
+cd /
+find /app/wwwroot/dafen123.com/ -name "*.php" | xargs grep 54.248.121.100
+find /app/wwwroot/dafen123.com/ -name "*.php" | xargs grep 10.156.194.215
+top
+ll
+cd /app/wwwroot/dafen123.com/www.dafen123.com/control/
+vi index.ctl.php 
+ll
+crontab -e
+ll
+cd /tmp
+ll
+tail -f shell_stat_reg_hour.log 
+cd /app/wwwroot/dafen123.com/core/public/view/
+vi interest_footer.view.php 
+tail -f /app/wwwroot/dafen123.com/errorlogs/admin_feed.log
+ll
+cd /tmp/
+ll
+tail stat_test.log 
+tail -f /app/wwwroot/dafen123.com/errorlogs/admin_feed.log
+tail stat_test.log 
+:q
+vi /etc/hosts
+ping stat.dafen123.com
+top
+tail -f /app/wwwroot/dafen123.com/errorlogs/admin_photo_feed.log
+vi /app/wwwroot/dafen123.com/errorlogs/admin_photo_feed.log
+ll
+cd /app/wwwroot/dafen123.com/up.dafen123.com/tmp/
+ll 35c028f48cac1b843c02edccb96d5739.jpg 
+sz 35c028f48cac1b843c02edccb96d5739.jpg 
+tail -f /app/wwwroot/dafen123.com/errorlogs/admin_feed.log
+cd /usr/local/services/nginx/
+cd logs/
+ll
+tail -f error.log 
+cd ../../
+cd php5-fcgi/logs/
+ll
+tail php-fpm.log 
+cd /tmp/
+ll
+tail fbpic.log 
+cd /app/wwwroot/dafen123.com/www.dafen123.com/control/
+vi index.ctl.php 
+tail -f /../../../
+cd ../../../
+ll
+cd dafen123.com/
+ll
+cd errorlogs/
+ll
+tail -f /app/logs/php-error.log
+cd /app/log
+cd /app/logs
+cd /app/
+ll
+mkdir logs
+ll
+chmod logs 775
+chown nobody.nobody logs
+ll
+cd logs/
+ll
+cd ..
+chmod 775 logs/
+ll
+cd logs/
+ll
+vi php-error.log
+ll
+chown nobody.nobody php-error.log 
+chmod 775 php-error.log 
+ll
+tail -f php-error.log 
+cd /tmp/
+ll
+vi dberr.log 
+tail -f dberr.log 
+tail -f /app/logs/php-error.log 
+tail -f dberr.log 
+ll
+vi dberr.log 
+ll
+tail -f /app/logs/php-error.log 
+tail -f dberr.log 
+ps axf
+top
+cd /usr/local/services/nginx/
+ls
+tail -f logs/error.log 
+cd ..
+cd php5-fcgi
+ls
+tail -f logs/slow.log 
+top
+/usr/local/services/redis/bin/redis-cli
+ps axf
+rcconf |
+ps axf
+ps axf|grep syslog
+top
+rcconf 
+ps axf
+aptitude search sysv-rc-conf
+aptitude install sysv-rc-conf
+sysv-rc-conf 
+tail -f /var/log/syslog
+crontab -l
+ps axf
+crontab -e
+vim /etc/rc.local 
+ps axf
+vi /etc/hosts
+tail -f /app/logs/wanggl.log
+cd app/logs
+cd /app
+ll
+cd logs/
+ll
+tail -f wanggl.log 
+tail -f /app/logs/wanggl.log 
+vi  /etc/hosts
+ping stat.dafen123.com
+crontab aa.jpg -e
+crontab -e
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+tain -f /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/php-error.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+tial -f /app/logs/php-error.log 
+tail -f /app/logs/php-error.log 
+tail -f /app/logs/p
+tail -f /app/logs/php-error.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+crontab -e
+ll
+cd /tmp/
+ll
+cd /app/logs
+ll
+vi pay_success.log 
+vi pay_placed.log 
+cd /app/wwwroot/
+ll
+cd dafen123.com/crontab
+ll
+crontab -e
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/stat_pay_day.php 
+tail -f /app/logs/php-error.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+keys heart:receive_count_807850764
+keys heart:receive_count_807850*
+auth ZFgw3b8bQamLFITe
+keys heart:receive_count_807850*
+del heart:receive_count_807850764
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/php-error.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/php-error.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/php-error.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /tmp/search.log
+sz /tmp/search.log 
+ll
+cd /tmp/
+ll
+tail -f /app/logs/php-error.log 
+cd /tmp/
+tail -f reg.log
+ll
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ll
+cd /tmp/
+ll
+echo -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+/usr/local/services/redis/bin/redis-cli 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/usr/local/services/redis/bin/redis-cli 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+cd /tmp/
+ll
+tail -f reg.log 
+sz reg.log q
+crontab -e
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ll
+crontab  -e
+top
+tail -f /app/logs/php-error.log 
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/php-error.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+crontab -e
+tail -f /app/logs/php-error.log 
+cd /usr/local/services/nginx/sbin/nginx 
+cd /usr/local/services/nginx/conf/
+ll
+rm t.php 
+ll
+cd /app/wwwroot/dafen123.com/up.dafen123.com/
+ll
+mv t.php tt.php
+mv tt.php t.php
+/usr/local/services/redis/bin/redis-cli
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ll
+cd /tmp/
+tail -f admin_debug.log 
+sz admin_debug.log 
+**070000000067d4
+tail -f admin_debug.log 
+tail -f /app/logs/php-error.log 
+ssh 54.248.90.12
+quit
+exit
+cd /usr/local/ng
+ps axf
+top
+cd /usr/local/services
+top
+ls
+cd nginx/
+vim conf/nginx.conf
+sbin/nginx -t
+ps axf
+kill -HUP 3344
+ps axf
+top
+df
+cd /usr/local/servicesph
+ls
+cd /usr/local/services/php5-fcgi
+ls
+tail -f logs/slow.log 
+vim /app/wwwroot/dafen123.com/_admin/include/AppContainer.class.php
+cd ..
+cd nginx/
+ls
+less logs/error.log 
+ls
+c d..
+cd ..
+cd php5-fcgi
+ls
+less logs/php-fpm.log 
+ps axf
+top
+vim etc/php-fpm.conf 
+ps axf
+sbin/php-fpm reload
+ps axf
+ps axf|grep -c php
+ls
+> logs/slow.log 
+tail -f logs/slow.log 
+vim lib/php.ini 
+ls /dev/shm/
+crontab -l
+crontab -e
+which find
+crontab -e
+vim /app/wwwroot/dafen123.com/_admin/include/AppContainer.class.php
+cd /app/wwwroot/dafen123.com/
+ls
+grep session * -R
+grep session_write_close * -R
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log tail -f /app/logs/wanggl.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/attention_send.php 
+/usr/local/services/redis/bin/redis-cli
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/wanggl.log 
+cd /app/wwwroot/dafen123.com/crontab/
+ll
+/usr/local/services/php5-fcgi/bin/php cron_admin_feed_photo.php 
+vi cron_admin_feed_photo.php 
+/usr/local/services/php5-fcgi/bin/php cron_admin_feed_photo.php 
+vi cron_admin_feed_photo.php 
+/usr/local/services/php5-fcgi/bin/php cron_admin_feed_photo.php 
+sz /app/wwwroot/dafen123.com/up.dafen123.com/tmp/82ed7f638d4ddf9d536a925bf617602c.jpg
+rm /app/wwwroot/dafen123.com/up.dafen123.com/tmp/82ed7f638d4ddf9d536a925bf617602c.jpg
+/usr/local/services/php5-fcgi/bin/php cron_admin_feed_photo.php 
+sz /app/wwwroot/dafen123.com/up.dafen123.com/tmp/82ed7f638d4ddf9d536a925bf617602c.jpg
+rm /app/wwwroot/dafen123.com/up.dafen123.com/tmp/82ed7f638d4ddf9d536a925bf617602c.jpg
+/usr/local/services/php5-fcgi/bin/php cron_admin_feed_photo.php 
+sz /app/wwwroot/dafen123.com/up.dafen123.com/tmp/82ed7f638d4ddf9d536a925bf617602c.jpg
+/usr/local/services/php5-fcgi/bin/php cron_admin_feed_photo.php 
+sz /app/wwwroot/dafen123.com/up.dafen123.com/tmp/82ed7f638d4ddf9d536a925bf617602c.jpg
+/usr/local/services/php5-fcgi/bin/php cron_admin_feed_photo.php 
+sz /app/wwwroot/dafen123.com/up.dafen123.com/tmp/17e2beeecc263ba4c0810113af74c374.jpg
+/usr/local/services/php5-fcgi/bin/php cron_admin_feed_photo.php 
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+tail -f /app/wwwroot/dafen123.com/errorlogs/admin_feed.log 
+/usr/local/services/php5-fcgi/bin/php cron_admin_feed_photo.php 
+crontab -e
+tail -f /app/logs/php-error.log 
+tail -f /tmp/ac.log 
+ll
+
+ll
+pure-pw useradd ftp_cwh -u nobody -g nobody -d /app/wwwroot/dafen123.com/
+pure-pw mkdb
+pure-pw list
+pure-pw show ftp_cwh
+tail -f /tmp/ac.log 
+ll
+tail -f /tmp/shell_admin_feed.log 
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok.log 
+tail -f /tmp/ac.log 
+vim /app/wwwroot/dafen123.com/www.dafen123.com/control/index.ctl.php 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ll
+cd /app/logs/
+cd ..
+cd services/mysql/cd /
+vi /etc/mysql/my.cnf 
+ll
+tail -f /app/mysql/logs/slow_queries.log
+ll
+cd /app/logs/
+ll
+cp php-error.log bakphp-error.log
+vi php-error.log 
+ll
+tar -cvzf php-error.log.tar.gz bakphp-error.log 
+ll
+sz php-error.log.tar.gz 
+ll
+rm bakphp-error.log -rf
+ll
+vi /etc/hosts
+crontab -e
+cd //app/wwwroot/dafen123.com/stat.dafen123.com
+ll
+cd log/
+ll
+vi 20120809_1240_10.148.69.240 
+ll
+ll
+rm aa.jpg bacc.jpg -rf
+ll
+cd /app/wwwroot/dafen123.com/www.dafen123.com/wwwroot/
+ll
+vi info.php 
+vi ip.php 
+ll
+cd /app/
+ls
+rsync -avz --exclude='log/*' --exclude='logs/*' * ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com:/app/
+rsync -avz --delete --exclude='tmp/*' --exclude='log/*' --exclude='logs/*' * ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com:/app/
+vim /etc/fstab
+cd /usr/local/
+ls
+ls -l
+vim /etc/rc.local 
+rsync -avz /etc/pure-ftpd ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com:/etc/
+crontab -l
+vim /app/wwwroot/dafen123.com/up.dafen123.com/Remove_tmp_picture.sh
+which find
+/usr/bin/find /app/wwwroot/dafen123.com/up.dafen123.com/tmp/ -type f -mtime +1
+/usr/bin/find /app/wwwroot/dafen123.com/up.dafen123.com/tmp/ -type f -mtime +1 | xargs rm -rf 
+crontab -l
+crontab -e
+vim /root/.ssh/authorized_keys 
+cat /root/.ssh/authorized_keys 
+cd services
+ls
+cd nginx/
+ls
+cd ssl/
+ls
+crontab -l
+ls
+vim ../conf/nginx.conf
+ls
+cat dafen123.com.csr 
+ls
+cat dafen123.com_combined.crt 
+ls
+cat dafen123.com.key 
+openssl rsa -in dafen123.com.key -out dafen123.com.private.pem
+ls
+cat dafen123.com.private.pem 
+ls
+cat dafen123.com.crt
+cat dafen123.com_combined.crt 
+ls
+rz -bey
+cat dafen123.com.crt 
+ls
+cat gd_bundle.crt 
+ls
+cat dafen123.com.crt 
+ls
+cat dafen123.com.private.pem 
+ls /app/wwwroot/dafen123.com/www.dafen123.com/
+ls /app/wwwroot/dafen123.com/www.dafen123.com/wwwroot/
+echo 'ok' > /app/wwwroot/dafen123.com/www.dafen123.com/wwwroot/healthcheck.txt
+cd ..
+vim conf/nginx.conf
+sbin/nginx -t
+ps axf
+cat logs/nginx.pid 
+kill -HUP 3344
+ps axf
+ls
+ls ssl/
+cd ..
+ls
+cd nginx/
+ls
+rsync conf ssl ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com:/usr/local/services/nginx/
+rsync -av conf ssl ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com:/usr/local/services/nginx/
+iptables -nL
+vim conf/nginx.conf
+history |grep echo
+echo 'ok' > /app/wwwroot/dafen123.com/_admin/healthcheck.txt
+ls /app/wwwroot/dafen123.com/_admin/
+ifconfig 
+history |grep rsync
+cd /app/
+ls
+rsync -avz --delete --exclude='tmp/*' --exclude='log/*' --exclude='logs/*' * ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com:/app/
+rsync -avz --delete --exclude='tmp/*' --exclude='log/*' --exclude='logs/*' --exclude='*.og' * ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com:/app/
+rsync -avz --delete --exclude='tmp/*' --exclude='log/*' --exclude='logs/*' --exclude='*.log' * ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com:/app/
+ls /usr/share/fonts/chinese/TrueType/
+cat /etc/hosts
+ifconfig 
+rsync -avz --delete --exclude='tmp/*' --exclude='log/*' --exclude='logs/*' --exclude='*.log' * ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com:/app/
+dig www.dafen123.com
+ls
+vim 1.php
+/usr/local/services/php5-fcgi/bin/php 1.php 
+mv 1.php /app/wwwroot/dafen123.com/www.dafen123.com/wwwroot/ip.php
+vim /app/wwwroot/dafen123.com/www.dafen123.com/wwwroot/ip.php
+cd services/
+ls
+cd /app/wwwroot/
+ls
+cd dafen123.com/
+ls
+cd www.dafen123.com/
+ls
+cd wwwroot/
+ls
+vim info.php 
+ls
+vim ip.php 
+/usr/local/services/php5-fcgi/bin/php 1.
+/usr/local/services/php5-fcgi/bin/php ip.php 
+vim ip.php 
+/usr/local/services/php5-fcgi/bin/php ip.php 
+/usr/local/services/nginx/sbin/nginx -V
+ping wwwdafen123-1146876277.ap-northeast-1.elb.amazonaws.com
+rsync -avz --exclude='tmp/*' --exclude='log/*' --exclude='logs/*' --exclude='*.log' /app/wwwroot/dafen123.com ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com:/app/wwwroot/
+cd /usr/local/services
+cd nginx/
+vim conf/nginx.conf
+sbin/nginx -t
+ps axf
+cat logs/nginx.pid 
+kill -HUP 3344
+vim conf/nginx.conf
+sbin/nginx -t
+cat logs/nginx.pid 
+kill -HUP 3344
+dig -t txt mail.dafen123.com
+cd ssl/
+ls
+rz -bey
+ls
+cat dafen123.com.crt gd_bundle.crt > ssl/dafen123.com_combined.crt 
+ls
+cat dafen123.com.crt gd_bundle.crt > dafen123.com_combined.crt 
+ls
+cd /app/
+ls
+cd script/
+ls
+vim rsync_dafen123.com.sh 
+sh rsync_dafen123.com.sh 
+ll
+/app/script/rsync_pic.admin.dafen123.com.sh 
+tail -f /app/logs/php-error.log
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok.log 
+history |grep redis
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok.log 
+sz /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok.log 
+sz /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok.log 
+tail -f /tmp/shell_admin_feed.log 
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok.log 
+/app/script/rsync_web_core_www.sh 
+/app/script/rsync_pic.admin.dafen123.com.sh 
+/app/script/rsync_www.dafen123.com\ .sh 
+/app/script/rsync_www.dafen123.com\ .sh 
+ll
+history |grep toim
+/usr/local/services/wkhtmltoimage  --crop-w 532 'https://www.dafen123.com/cut/impression?uid=40034908&receiver=90039438' am.jpg
+ll
+sz am.jpg 
+/app/script/rsync_pic.admin.dafen123.com.sh 
+/app/script/rsync_core.sh 
+ps axf
+cd /usr/local/services
+cd nginx/
+cat logs/nginx.pid 
+kill -HUP 3344
+cd /app/wwwroot/dafen123.com/up.dafen123.com/
+ll
+vi domain.php 
+ll
+vi t.php 
+ll
+cd /app/wwwroot/dafen123.com/errorlogs/
+ll
+tail -f admin_photo_feed.log 
+ll
+rm am.jpg 
+ll
+cd /app/wwwroot/dafen123.com/errorlogs/
+ll
+tail cron_admin_feed_ok.log 
+crontab -e
+tail -f cron_admin_feed_ok.log 
+ll
+tail -f cron_admin_feed_ok.log 
+ll
+tail -f /app/logs/php-error.log
+ll
+tail -f cron_admin_feed_ok2012-08-27.log 
+vi cron_admin_feed_ok
+vi cron_admin_feed_ok.log 
+vi cron_admin_feed_ok2012-08-27.log 
+ll
+vi cron_admin_feed_ok
+vi cron_admin_feed_ok.log 
+sz cron_admin_feed_ok.log 
+cd /usr/local/services
+cd nginx/
+ls
+rsync -avz ssl 54.248.121.100:/usr/local/services/nginx/
+echo -> /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/php-error.log
+cd /app/wwwroot/dafen123.com/up.dafen123.com/tmp/
+sz f3258937b1819c9795fe100dd010d4ee.jpg 
+ll
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+top
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+vim /app/wwwroot/dafen123.com/core/public/config/mydb/photo.mydb.php 
+/app/script/rsync_pic.admin.dafen123.com.sh 
+tail -f /app/logs/php-error.log
+/app/script/rsync_core.sh 
+/app/script/rsync_web_core_www.sh 
+/app/script/rsync_pic.admin.dafen123.com.sh 
+ll
+crontab -e
+vi /app/wwwroot/dafen123.com/crontab/cron_admin_feed_photo.php
+/app/script/rsync_pic.admin.dafen123.com.sh 
+to p 
+top
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+vi /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+ll
+/app/script/rsync_up.dafen123.com.sh 
+tail -f /app/logs/php-error.log
+tail -f /tmp/tfeed_ok.log 
+tail -f /app/logs/php-error.log
+ls
+cd 
+cd /
+ls
+cd usr/local/services/
+tail -f nginx/logs/error.log 
+tail -f /app/logs/php-error.log
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ll
+tail -f /app/logs/phq
+tail -f /app/logs/php-error.log
+history |grep redis
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/php-error.log
+cd /app/logs/
+ll
+cp php-error.log php-errorbak.log
+ll
+vi php-error.log
+ll
+crontab -e
+/usr/local/services/redis/bin/redis-cli  -h 10.146.2.216
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/php-error
+tail -f /app/logs/php-error.log
+tail -f /app/logs/php-error.log
+vi /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok2012-08-30.log 
+tail -f /app/wwwroot/dafen123.com/errorlogs/admin_feed.log 
+vi /app/wwwroot/dafen123.com/errorlogs/admin_feed.log 
+ll
+cd /app/wwwroot/dafen123.com/errorlogs/
+ll
+sz admin_feed.log
+ll
+vi cron_admin_feed_ok2012-08-30.log 
+tail -f /app/logs/php-error
+tail -f /app/logs/php-error.log
+tail -f /tmp/feed_imp.log
+/app/script/rsync_pic.admin.dafen123.com.sh 
+tail -f /tmp/feed_imp.log
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/wanggl.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_admin.dafen123.com.sh 
+/app/script/rsync_crontab.sh 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /app/logs/php-error.log
+vi /app/logs/php-error.log
+tail -f /app/logs/php-error.log
+ls
+vim /app/wwwroot/dafen123.com/pic.dafen123.com/v/g/js/global.js 
+tail -f /app/wwwroot/dafen123.com/errorlogs/admin_feed.log 
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+/app/script/rsync_admin.dafen123.com.sh 
+/app/script/rsync_crontab.sh 
+tail -f /app/logs/php-error.log
+crontab -e
+/usr/local/services/php5-fcgi/bin/php  /app/wwwroot/dafen123.com/crontab/cron_admin_feed2.php
+/usr/local/services/php5-fcgi/bin/php  /app/wwwroot/dafen123.com/crontab/cron_admin_feed4.php
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok2012-08-31.log 
+/usr/local/services/php5-fcgi/bin/php  /app/wwwroot/dafen123.com/crontab/cron_admin_feed4.php
+/usr/local/services/php5-fcgi/bin/php  /app/wwwroot/dafen123.com/crontab/cron_admin_fe
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+/app/script/rsync_crontab.sh 
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+vi /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+/app/script/rsync_admin.dafen123.com.sh 
+/app/script/rsync_crontab.sh 
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok2012-08-31.log 
+/app/script/rsync_www.dafen123.com.sh 
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+vi  /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+vi  /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok2012-08-31.log 
+vi  /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+history |grep redisq
+history |grep redis
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_www.dafen123.com.sh 
+vi  /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ll
+/app/script/rsync_admin.dafen123.com.sh 
+/app/script/rsync_web_core_www.sh 
+/app/script/rsync_crontab.sh 
+history |grep redis
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_web_core_www.sh 
+/app/script/rsync_pic.dafen123.com.sh 
+/usr/local/services/redis/bin/redis-cli 
+vi  /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+vi  /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok2012-08-31.log 
+vi  /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+vi  /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok2012-08-31.log 
+vi  /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+vi  /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed_ok2012-08-31.log 
+history  |grep redi
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_www.dafen123.com.sh 
+/app/script/rsync_admin.dafen123.com.sh 
+tail -f /app/wwwroot/dafen123.com/errorlogs/admin_photo_feed.log
+ll
+cd /app/wwwroot/dafen123.com/errorlogs
+ll
+tail -f /app/wwwroot/dafen123.com/errorlogs/admin_photo_feed.log
+history |grep rdis
+history |grep redis
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+top
+ll
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_ww
+/app/script/rsync_www.dafen123.com.sh 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_crontab.sh 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f admin_photo_feed.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_www.dafen123.com.sh 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f admin_photo_feed.log 
+tail -f admin_photo_feed_ok.log 
+/app/script/rsync_www.dafen123.com.sh 
+/app/script/rsync_core.sh 
+tail -f admin_photo_feed.log 
+/app/script/rsync_www.dafen123.com.sh 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_admin.dafen123.com.sh 
+tail -f admin_photo_feed.log 
+/app/script/rsync_admin.dafen123.com.sh 
+/app/script/rsync_www.dafen123.com.sh 
+/app/script/rsync_crontab.sh 
+ll
+/app/script/rsync_admin.dafen123.com.sh 
+ls
+cd /tmp/
+tail -f admin_debug.log 
+vi admin_debug.log 
+tail -f admin_debug.log 
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/cron_adv_stat.php 
+vi /app/wwwroot/dafen123.com/crontab/cron_adv_stat.php
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/cron_adv_stat.php 
+tail -f /app/logs/php-error
+tail -f /app/logs/php-error.log
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/cron_adv_stat.php 
+tail -f /app/logs/php-error.log
+/usr/local/services/php5-fcgi/bin/php /app/wwwroot/dafen123.com/crontab/cron_adv_stat.php 
+tail -f /app/logs/php-error.log
+vi /app/wwwroot/dafen123.com/crontab/cron_adv_stat.php
+/app/script/rsync_crontab.sh 
+tail -f /app/logs/php-error.log
+/app/script/rsync_core.sh 
+tail -f /app/logs/php-error.log
+ll
+crontab -e
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_crontab.sh 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_crontab.sh 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_crontab.sh 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_crontab.sh 
+/app/script/rsync_admin.dafen123.com.sh 
+tail -f /tmp/admin_debug.log 
+vi /tmp/admin_debug.log 
+tail -f /tmp/admin_debug.log
+quit
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+top
+tail -f /app/wwwroot/dafen123.com/errorlogs/cron_admin_feed.log 
+vi /app/wwwroot/dafen123.com/_admin/regphoto.php 
+cd /app/wwwroot/dafen123.com/crontab/
+php cron_adv_stat_test.php 
+30068632    [0] => Array
+cd /app/script/
+ls
+./rsync_dafen123.com.sh 
+./rsync_crontab.sh 
+Sync crontab:
+cd /app/script/
+./rsync_dafen123.com.sh 
+ls
+cd /app/script/
+./rsync_admin.dafen123.com.sh 
+ls
+cd /
+ls
+cd /app/script/
+ls
+tail -f /app/logs/php-error.log
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/script/rsync_dafen123.com.sh 
+ls
+cd /app/wwwroot/dafen123.com/crontab/
+vi cron_adv_stat.php 
+php cron_adv_stat.php 
+ls
+cd /app/script/
+ls
+./rsync_dafen123.com.sh 
+php /app/wwwroot/dafen123.com/crontab/update_hot_user_may_pay.php 
+tail -f /app/logs/php-error.log
+php /app/wwwroot/dafen123.com/crontab/update_hot_user_may_pay.php 
+tail -f /app/logs/php-error.log
+php /app/wwwroot/dafen123.com/crontab/update_hot_user_may_pay.php 
+tail -f /app/logs/php-error.log
+php /app/wwwroot/dafen123.com/crontab/update_hot_user_may_pay.php 
+crontab -e
+tail -f /app/logs/php-error.log
+ll
+cd /app/wwwroot/dafen123.com/
+ll
+cd stat.dafen123.com/
+ll
+vi save.php
+vi build_stat_data.php 
+ll
+rm save.php.1 
+rm t.php.1 
+ll
+cd log/
+ll
+top
+vi /app/online/dafen123.com/crontab/receive_msg_queue.php 
+vi /app/new_script/rsync_crontab_dafen123.com.sh 
+find /app/wwwroot/dafen123.com/  -name "*.php" | xargs grep 10.156.194.215
+vi /app/wwwroot/dafen123.com/crontab/receive_msg_queuetest.php
+find /app/online/dafen123.com/  -name "*.php" | xargs grep 10.156.194.215
+vi /app/online/dafen123.com/crontab/receive_msg_queuetest.php
+ll
+find /app/online/dafen123.com/  -name "*.php" | xargs grep 10.156.194.215
+cd  /../..
+ll
+cd /app/wwwroot/dafen123.com/crontab/
+tail -f /tmp/shell_receive_msg_queue.log 
+vi ../stat.dafen123.com/save.php 
+ll
+cd log/
+ll
+cd ..
+ll
+cd ..
+cd stat.dafen123.com/
+ll
+cd log/
+ll
+vi error 
+ll
+cd ..
+vi build_stat_data.php 
+crontab  -e
+tail -f /tmp/shell_build_stat_data.log
+vi /app/wwwroot/dafen123.com/stat.dafen123.com/build_stat_data.php
+vi /etc/hosts
+crontab -e
+df -h
+cd /app/new_script/
+ls
+./rsync_crontab_dafen123.com.sh 
+ls
+cd /app/wwwroot/dafen123.com/crontab/
+ls
+php cron_adv_stat_money.php 
+php cron_adv_stat.php 
+php cron_adv_stat_money.php 
+ll
+pure-pw passwd ftp_cwh
+pure-pw mkdb
+pur-ftpwho --help
+pur-ftpwho
+pure-ftpwho
+cd /app/
+ll
+rm -rf script/
+ll
+SELECT uid,enter_total,add_time FROM tbl::order WHERE status=1 AND add_time =>  "2012-09-07 00:00:00" AND add_time =>  "2012-07-09 10:03:11" AND add_time =>  "2012-07-09 10:03:11"SELECT uid,enter_total,add_time FROM tbl::order WHERE status=1 AND add_time =>  "2012-09-07 00:00:00"SELECT uid,enter_total,add_time FROM tbl::order WHERE status=1 AND add_time =>  "2012-09-07 00:00:00"SELECT uid, enter_total, add_time
+FROM t_order
+WHERE STATUS =1
+AND `add_time` >= '2012-09-07 00:00:00'SELECT uid, enter_total, add_time
+FROM t_order
+WHERE STATUS =1
+AND `add_time` >= '2012-09-07 00:00:00'SELECT uid, enter_total, add_time
+
+WHERE STATUS =1
+tail -f /app/logs/php-error.log
+cd /app/wwwroot/dafen123.com/crontab/
+ls
+php cron_adv_stat.php 
+vi cron_adv_stat.php 
+clear
+php cron_adv_stat.php 
+php cron_adv_stat_money.php 
+tail -f /app/logs/php-error.log
+cd /app/wwwroot/dafen123.com/_admin/data/dbs/
+vi user.dbs.php 
+ls
+sz user.dbs.php 
+ls
+cd ../../
+ls
+cd data/ini/
+ls
+sz Stat_conf.php 
+tail -f /app/logs/php-error.log
+clear
+tail -f /app/logs/php-error.log
+clear
+tail -f /app/logs/php-error.log
+cd /app/wwwroot/dafen123.com/crontab/
+php cron_adv_stat_money.php 
+php cron_adv_stat.php 
+php cron_adv_stat_money.php 
+php cron_adv_stat.php 
+php cron_adv_stat_money.php 
+php cron_adv_stat.php 
+php cron_adv_stat_money.php 
+cd /app/new_script/
+ls
+./rsync_crontab_dafen123.com.sh 
+cd /app/wwwroot/dafen123.com/crontab/
+ll
+cp stat_reg_day.php tstat_reg_day.php
+vi tstat_reg_day.php 
+vi stat_reg_day.php 
+echo -> /app/logs//wanggl.log
+tail -f /app/logs/wanggl.log 
+echo -> /app/logs/wanggl.log 
+tial -f /app/logs/wanggl.log 
+tail -f /app/logs//wanggl.log 
+echo ->f /app/logs/wanggl.log 
+tail -f /app/logs/wanggl.log 
+vim /app/wwwroot/dafen123.com/www.dafen123.com/view/main/visit.view.php 
+vim /app/wwwroot/dafen123.com/www.dafen123.com/control/main.ctl.php 
+/app/new_script/rsync_pic_dafen123.com.sh 
+/app/new_script/rsync_core_dafen123.com.sh 
+/app/new_script/rsync_pic_dafen123.com.sh 
+/app/new_script/rsync_core_dafen123.com.sh 
+ll
+tail -f /app/logs/pay_refunded.log
+vi /app/logs/pay_refunded.log
+vi /app/logs/pay_disputed.log 
+/app/new_script/rsync_www_dafen123.com.sh 
+/app/new_script/rsync_core_dafen123.com.sh 
+/app/new_script/rsync_pic_dafen123.com.sh 
+/app/new_script/rsync_www_dafen123.com.sh 
+history |grep redis
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ls
+cd /app/new_script/
+./rsync_crontab_dafen123.com.sh 
+cd /app/new_script/
+ls
+./rsync_core_dafen123.com.sh 
+/app/new_script/rsync_core_dafen123.com.sh 
+cd /app/new_script/
+./rsync_crontab_dafen123.com.sh 
+./rsync_core_dafen123.com.sh 
+cd /app/new_script/
+./rsync_core_dafen123.com.sh 
+ls
+cd ../wwwroot/
+ls
+cd dafen123.com/crontab/
+ls
+crontab -e
+vi clear_online_user_today_msg.php 
+crontab -e
+vi clear_online_user_today_msg.php 
+crontab -e
+php clear_online_user_today_msg.php 
+vi clear_online_user_today_msg.php 
+php clear_online_user_today_msg.php 
+cd /app/new_script/
+./rsync_core_dafen123.com.sh 
+tail -f /app/logs/php-error.log
+ls
+cd /app/new_script/
+./rsync_crontab_dafen123.com.sh
+ll
+/app/new_script/rsync_pic_dafen123.com.sh 
+cd /app/new_script/
+./rsync_core_dafen123.com.sh 
+top
+./rsync_core_dafen123.com.sh 
+./rsync_www_dafen123.com.sh 
+top
+./rsync_www_dafen123.com.sh 
+top
+./rsync_www_dafen123.com.sh 
+./rsync_core_dafen123.com.sh 
+top
+./rsync_www_dafen123.com.sh 
+top
+./rsync_www_dafen123.com.sh 
+tail -f /tmp/test.log
+./rsync_www_dafen123.com.sh 
+cd /app/wwwroot/dafen123.com/core/public/view/
+ls
+cd /app/new_script/
+./rsync_core_dafen123.com.sh 
+./rsync_www_dafen123.com.sh 
+ls
+./rsync_www_dafen123.com.sh 
+svn ci -m "上傳照片文字修改"
+./rsync_core_dafen123.com.sh 
+cd /app/new_script/
+ll
+./rsync_dafen123.com.sh
+ll
+pure-pw 
+pure-pw list
+pure-pw useradd ftp_wgl  -u nobody -g nobody -d /app/online/dafen123.com
+pure-pw mkdb
+pure-pw list
+pure-pw show ftp_wgl
+tail -f /app/logs/wanggl.log 
+cd /app/new_script/
+ll
+./rsync_www_dafen123.com.sh
+tail -f /app/logs/pay_disputed.log 
+tail -f /app/logs/pay_refunded.log 
+cd /app/logs
+ll
+vi pay_disputed.log 
+ll
+ssh ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com
+vi pay_refunded.log 
+ll
+/app/new_script/rsync_pic_dafen123.com.sh 
+/app/new_script/rsync_web_www_core_dafen123.com.sh 
+tail -f /app/logs/php-error.log
+/app/new_script/rsync_pic_dafen123.com.sh 
+tail -f /app/logs/php-error.log
+tail -f /app/logs/pay_placed.log 
+cd /tmp/
+ll
+mkdir order
+ll
+chown nobody.nobody order/
+ll
+cd uploadlog/
+ll
+cd ..
+cd order/
+ll
+/app/new_script/rsync_core_dafen123.com.sh 
+/app/new_script/rsync_pic_dafen123.com.sh 
+/app/new_script/rsync_www_dafen123.com.sh 
+tail -f /app/logs/php-error.log
+/app/new_script/rsync_www_dafen123.com.sh 
+/app/new_script/rsync_core_dafen123.com.sh 
+/app/new_script/rsync_www_dafen123.com.sh 
+ll
+/app/new_script/rsync_pay_dafen123.com.sh 
+/app/new_script/rsync_core_dafen123.com.sh 
+ll
+/app/new_script/rsync_www_dafen123.com.sh 
+tail -f /app/logs/php-error.log
+ll
+vi .rediscli_history 
+ll
+/app/new_script/rsync_www_dafen123.com.sh 
+tail -f /app/logs/php-error.log
+/app/new_script/rsync_core_dafen123.com.sh 
+tail -f /app/logs/php-error.log
+top
+cd /app/logs/
+ll
+tail -f pay_disputed.log 
+tail -f pay_refunded.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+ll
+cd /app/logs
+ll
+cd /usr/local/services
+cd nginx/
+ls
+vim conf/nginx.conf
+ls
+cd ssl/
+ls
+cd ..
+vi =
+ll
+crontab -e
+:q
+tail -f /app/logs/wanggl.log 
+tail -f /app/logs/php-error.log
+/app/new_script/rsync_core_dafen123.com.sh 
+history |grep redis
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/new_script/rsync_core_dafen123.com.sh 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/new_script/rsync_core_dafen123.com.sh 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/new_script/rsync_core_dafen123.com.sh 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+tail -f /tmp/imp.log 
+/app/new_script/rsync_core_dafen123.com.sh 
+tail -f /tmp/imp.log 
+vi /tmp/imp.log 
+ll
+vi /tmp/imp.log 
+/app/new_script/rsync_core_dafen123.com.sh 
+/app/new_script/rsync_www_dafen123.com.sh 
+tail -f /tmp/imp.log 
+/app/new_script/rsync_core_dafen123.com.sh 
+tail -f /tmp/imp.log 
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ll
+/app/new_script/rsync_www_dafen123.com.sh 
+ssh 54.248.121.100
+ll
+/app/new_script/rsync_crontab_dafen123.com.sh 
+/app/new_script/rsync_admin_dafen123.com.sh 
+/app/new_script/rsync_crontab_dafen123.com.sh 
+ll
+cd /tmp/
+ll
+cd order/
+ll
+cd ..
+mkdir video_order
+chown nobody.nobody video_order/
+ll
+/app/new_script/rsync_pay_dafen123.com.sh 
+top
+/app/new_script/rsync_pay_dafen123.com.sh 
+top
+ll
+cd video_order/
+ll
+cd /app/logs/
+ll
+cd /tmp/
+ll
+cd video_order/_
+chmod 755 video_order/
+ll
+cd video_order/
+ll
+cd 201209/
+ll
+tail -f 20120920.log 
+ll
+cd ..
+ll
+cd ..
+ll
+cd video_order/
+ll
+cd 201209/
+ll
+/app/new_script/rsync_pay_dafen123.com.sh 
+ll
+tail -f 20120920.log 
+vi 20120920.log 
+tail -f 20120920.log 
+ll
+cd ..
+ll
+cd ..
+ll
+/app/new_script/rsync_pay_dafen123.com.sh 
+ll
+tail -f vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f /tmp/vpay.log 
+ssh 54.248.121.1000
+ssh 54.248.121.100
+/app/new_script/rsync_pay_dafen123.com.sh 
+ssh 58.248.121.100
+vi /app/wwwroot/dafen123.com/crontab/statpay201209_1_15.php
+/app/new_script/rsync_pay_dafen123.com.sh 
+vi /app/wwwroot/dafen123.com/pay.dafen123.com/VideoPay.class.php 
+tail -f /tmp/vpay.log 
+vi /app/wwwroot/dafen123.com/pay.dafen123.com/VideoPay.class.php 
+ll
+vi /tmp/vpay.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+ll
+cd /app/logs/
+ll
+tail -f vcreat_video_order.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f vcreat_video_order.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f vcreat_video_order.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f vcreat_video_order.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f vcreat_video_order.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail -f vcreat_video_order.log 
+ll
+tail -f vcreat_video_order.log 
+ll
+/app/new_script/rsync_admin_dafen123.com.sh 
+tail -f php-error.log
+/app/new_script/rsync_admin_dafen123.com.sh 
+/app/new_script/rsync_core_dafen123.com.sh 
+/app/new_script/rsync_admin_dafen123.com.sh 
+ll
+tail  -f vcreat_video_order.log 
+ll
+/app/new_script/rsync_pay_dafen123.com.sh 
+tail  -f vcreat_video_order.log 
+ll
+tail -f vcreat_error_order.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+ll
+tail -f vcreat_success_order.log 
+/app/new_script/rsync_pay_dafen123.com.sh 
+ll
+rm vcreat_success_order.log 
+ll
+tail -f vcreat_error_order.log 
+ll
+tail -f vcreat_error_order.log 
+/app/new_script/rsync_admin_dafen123.com.sh 
+tail -f vcreat_error_order.log 
+ll
+/app/new_script/rsync_admin_dafen123.com.sh 
+tail -f /app/logs/pay_success.log 
+vi /app/logs/pay_success.log 
+sz /app/logs/pay_success.log 
+ll
+cd /app/logs/
+ll
+vi pay_placed.log 
+ll
+/app/new_script/rsync_admin_dafen123.com.sh 
+ll
+crontab -e
+tail -f /app/logs/php-error.log
+ls
+cd /app/wwwroot/dafen123.com/_admin/view/pay/
+ls
+cd /app/new_script/
+ls
+./rsync_admin_dafen123.com.sh 
+cd /app/new_script/
+ll
+./rsync_admin_dafen123.com.sh
+./rsync_www_dafen123.com.sh
+./rsync_admin_dafen123.com.sh
+tail -f /app/logs/php-error
+tail -f /app/logs/php-error.log
+ls
+tail -f /app/logs/php-error.log
+cd /app/new_script/
+ll
+./rsync_www_dafen123.com.sh
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ll
+./rsync_www_dafen123.com.sh
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ll
+./rsync_www_dafen123.com.sh
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+ll
+/app/new_script/rsync_core_dafen123.com.sh 
+ll
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+/app/new_script/rsync_pay_dafen123.com.sh 
+top
+20   0  468m  24m  20m R    1  1.4   0:05.81 php-cgi                                                                                                   
+12674 nobody    20   0  466m  24m  19m S    1  1.4   0:04.68 php-cgi                                                                                                   
+12838 nobody    20   0  468m  23m  18m S    1  1.4   0:03.07 php-cgi                                                                                                   
+13002 nobody    20   0  465m  19m  15m S    1  1.2   0:00.92 php-cgi                                                                                                   
+13003 nobody    20   0  468m  18m  14m R    1  1.1   0:01.20 php-cgi                                                                                                   
+12202 nobody    20   0  469m  26m  21m S    1  1.6   0:06.52 php-cgi                                                                                                   
+12294 nobody    20   0  467m  24m  20m S    1  1.4   0:05.72 php-cgi                                                                                                   
+12555 nobody    20   0  465m  22m  19m S    1  1.3   0:05.72 php-cgi                                                                                                   
+12559 nobody    20   0  468m  23m  19m S    1  1.4   0:04.75 php-cgi                                                                                                   
+12590 nobody    20   0  467m  23m  20m S    1  1.4   0:05.51 php-cgi                                                                                                   
+12619 nobody    20   0  467m  23m  19m S    1  1.4   0:03.96 php-cgi                                                                                                   
+12650 nobody    20   0  469m  25m  19m S    1  1.5   0:06.01 php-cgi                                                                                                   
+12839 nobody    20   0  467m  19m  16m S    1  1.2   0:03.03 php-cgi                                                                                                   
+12286 nobody    20   0  468m  25m  20m S    0  1.5   0:06.51 php-cgi                                                                                                   
+iostat -x 1 10
+df -h
+top
+/app/new_script/rsync_pay_dafen123.com.sh 
+vim /usr/local/services/nginx/conf/nginx.conf
+ls
+cd /app/new_script/
+ls
+./rsync_admin_dafen123.com.sh 
+cd /app/new_script/
+ll
+./rsync_admin_dafen123.com.sh
+tail -f /app/logs/php-error
+tail -f /app/logs/php-error.log
+cd /app/wwwroot/dafen123.com/_admin/
+ls
+vi pay.php 
+cd /app/new_script/
+ls
+./rsync_dafen123.com.sh 
+tail -f /app/logs/php-error.log
+cd /app/new_script/
+./rsync_pay_dafen123.com.sh 
+./rsync_core_dafen123.com.sh 
+./rsync_pay_dafen123.com.sh 
+./rsync_core_dafen123.com.sh 
+cd /app/new_script/
+./rsync_pic_dafen123.com.sh 
+./rsync_core_dafen123.com.sh 
+./rsync_admin_dafen123.com.sh 
+crontab -e
+ls
+cd /app/wwwroot/dafen123.com/www.dafen123.com/control/
+vi pay.ctl.php 
+tail -f /app/logs/php-error.log
+vi ../../core/public/library/pay.lib.php 
+cd /app/wwwroot/dafen123.com/core/public/library/
+ls
+sz pay.lib.php 
+cd /app/new_script/
+./rsync_core_dafen123.com.sh
+ll
+top
+tail -f /app/logs/php-error
+tail -f /app/logs/php-error.log
+cd /app/logs/
+ll
+tail -f /app/logs/php-error.log
+/app/new_script/rsync_www_dafen123.com.sh 
+tail -f /tmp/error.log
+tail -f /app/logs/php-error.log
+vi /app/wwwroot/dafen123.com/up.dafen123.com/fb_upphoto.php
+ll
+tail -f /tmp/error.log 
+cd /tmp/
+ll
+cd uploadlog/
+ll
+cd 201210/
+ll
+tail -f up.log.20121003 
+cd /app/logs
+ll
+tail-f php-error.log
+tail -f php-error.log
+tail -f /tmp/error.log 
+vi /app/wwwroot/dafen123.com/up.dafen123.com/fb_upphoto.php
+/app/new_script/rsync_www_dafen123.com.sh 
+tail -f /tmp/error.log 
+/app/new_script/rsync_www_dafen123.com.sh 
+tail -f php-error.log
+crontab -e
+tail -f /app/logs/php-error.log
+ll
+/app/new_script/rsync_admin_dafen123.com.sh 
+vi /app/wwwroot/dafen123.com/core/public/
+ls
+cd /app/wwwroot/dafen123.com/core/public/plugin/
+ls
+cd ../
+ls
+cd config/
+ls
+vi config.cfg.php 
+clear
+ls
+cd /app/new_script/
+ls
+./rsync_pay_dafen123.com.sh 
+./rsync_pic_dafen123.com.sh 
+./rsync_www_dafen123.com.sh 
+./rsync_pic_dafen123.com.sh 
+./rsync_core_dafen123.com.sh 
+cd /usr/local/services
+cd nginx/
+vim conf/nginx.conf
+ls
+cd /app/new_script/
+ls
+./rsync_admin_dafen123.com.sh 
+tail -f /app/logs/php-error.log
+./rsync_pay_dafen123.com.sh 
+tail -f /app/logs/php-error.log
+./rsync_pay_dafen123.com.sh 
+tail -f /app/logs/php-error.log
+cd /usr/local/services/php5-fcgi/etc/
+ll
+sz php-fpm.conf 
+cd ..
+ll
+cd ..
+cd nginx/conf/
+ll
+sz nginx.conf
+vi fastcgi_params
+cd /
+ll
+cd /app/wwwroot/dafen123.com/crontab/
+ll
+vi receive_msg_queuetest.php 
+cd /app/wwwroot/dafen123.com/crontab/log/
+ll
+cd all/
+ls
+vi 10.148.69.240_20120922.log 
+sz 10.148.69.240_20120922.log 
+ll
+cd ..
+ll
+sz 20120818_0430_10.148.69.240
+cd site/
+ll
+cd ..
+cd session/
+ll
+cd ..
+cd notice/
+ll
+cd ..
+cd monitor/
+ll
+cd ..
+cd email/
+ll
+cd ..
+cd all/
+ll
+tail 10.156.178.98_20120715.log
+cd /app/wwwroot/dafen123.com/_admin/cache/stat
+ll
+cd email/
+ll
+cd ..
+cd monitor/
+ll
+cd ..
+cd /app/wwwroot/dafen123.com/stat.dafen123.com/
+ll
+cd log/
+ll
+tail 20121026_1140_10.158.7.7
+pwd
+ll
+crontab -e
+ls
+cd /app/wwwroot/phpmyadmin/
+vi config.inc.php 
+cd /app/wwwroot/dafen123.com/pay.dafen123.com/
+ll
+vi VideoPay.class.php 
+ll
+crontab -e
+cd ..
+cd crontab/
+vi receive_msg_queuetest.php 
+/usr/local/services/php5-fcgi/bin/php receive_msg_queuetest.php
+vi receive_msg_queuetest.php 
+/usr/local/services/php5-fcgi/bin/php receive_msg_queuetest.php
+vi receive_msg_queuetest.php 
+ll
+cd ../stat.dafen123.com/
+/usr/local/services/php5-fcgi/bin/php build_stat_data.php 
+ll /tmp/shell_build_stat_data.log 
+ll
+cd log/
+lls
+ll
+tail 20121030_1605_10.148.69.240 
+ll
+sz /app/wwwroot/dafen123.com/pay.dafen123.com/VideoPay.class.php 
+vi  /app/wwwroot/dafen123.com/pay.dafen123.com/VideoPay.class.php 
+rz
+ls
+rz VideoPay.class.php 
+rm VideoPay.class.php 
+cd /app/wwwroot/dafen123.com/pay.dafen123.com
+ll
+rz 
+ll
+/app/new_script/rsync_pay_dafen123.com.sh 
+ll
+mv VideoPay.class.php VideoPay.class.php.BAK
+rz
+ll
+cd -
+ll
+crontab -e
+history  |grep redis
+crontab -e
+ls
+cd /app/logs/
+ls
+tail -f php-error.log
+sh rsync_core_dafen123.com.sh
+root@ip-10-148-69-240:/app/new_script# sh rsync_core_dafen123.com.sh 
+Sync to ec2-54-248-90-12.ap-northeast-1.compute.amazonaws.com
+Sync core:
+Permission denied (publickey).
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: error in rsync protocol data stream (code 12) at io.c(605) [sender=3.0.9]
+Sync to ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com
+Sync core:
+Permission denied (publickey).
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+sh rsync_core_dafen123.com.sh
+ls
+cd /app
+ls
+cd new_script/
+ls
+sh rsync_core_dafen123.com.sh 
+rsync_core_dafen123.com.sh
+sudo su
+n123.com.sh
+ssh ec2-54-248-90-12.ap-northeast-1.compute.amazonaws.com
+ssh ec2-175-41-200-200.ap-northeast-1.compute.amazonaws.com
+crontab -l
+vim /root/.ssh/authorized_keys 
+cd /app/wwwroot/
+ll
+ls
+aptitude update
+aptitude install build-essential libfuse-dev fuse-utils libcurl4-openssl-dev libxml2-dev mime-support
+ls
+cd /opt
+ls
+cd /op
+ls
+cd /app/
+ls
+wget http://s3fs.googlecode.com/files/s3fs-1.61.tar.gz
+tar -zxvf s3fs-1.61.tar.gz 
+cd s3fs-1.61/
+./configure --prefix=/usr
+make
+make clean
+uname -a
+cat /etc/issue
+crontab -l
+cd /app/wwwroot/dafen123.com/up.dafen123.com/tmp
+ll
+crontabl -l
+crontab -l
+history 
+ssh ec2-54-248-50-34.ap-northeast-1.compute.amazonaws.com
+ls
+cat /proc/cpuinfo
+cat /etc/redhat-release
+cd /app/wwwroot/
+ll
+ps axf
+vim /usr/local/services/php5-fcgi/lib/php.ini 
+sz -bey /usr/local/services/php5-fcgi/lib/php.ini 
+cd /usr/local/services
+ls
+cd nginx/
+ls
+cd conf/
+ls
+cd ..
+rsync -avz conf ssl 96.47.234.2:/usr/local/services/nginx/
+history |grep reids
+history |grep redis
+/usr/local/services/redis/bin/redis-cli -h 10.146.2.216
+exit
+cd /usr/local/services
+cd php5-fcgi
+ls
+cd etc/
+ls
+scp -p php-fpm.conf 96.47.234.2:/tmp/
+crontab -l
+date -R
+cat /root/.ssh/authorized_keys 
+cd /app/
+ls
+cd wwwroot/
+ls
+ls -l
+cd dafen123.com/
+ls
+ls -l
